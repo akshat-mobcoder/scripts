@@ -1,0 +1,177 @@
+{
+  "business_name": "Mobcoder",
+  "website_url": "https://mobcoder.com/",
+  "description": "Mobcoder is a leading mobile, web app, and AI development company delivering scalable, innovative digital solutions for startups and enterprises worldwide.",
+  "emails": [
+    "hr@mobcoder.com",
+    "sales@mobcoder.com"
+  ],
+  "phone_numbers": [],
+  "addresses": [
+    "75 Arlington St Boston, MA 02116",
+    "Australia 3 Yaralla Rd, Bentleigh East, VIC, 3165 sales@mobcoder.com",
+    "Dubai Level 1, Avenue Gate, South Zone, DIFC, Dubai, UAE sales@mobcoder.com",
+    "India USA Canada UAE KSA UK Australia",
+    "London The Long Barn Down Farm Cobham Park Road Surrey, Cobham KT11 3NE sales@mobcoder.com",
+    "Noida B-4/5, 2nd Floor Sector 63, Noida 201301 sales@mobcoder.com",
+    "Riyadh Level 29, Tower B, Olaya Towers, Riyadh-12213, Saudi Arabia sales@mobcoder.com",
+    "Riyadh Level 29, Tower B, Olaya Towers, Riyadh-12213, Saudi Arabia/p> sales@mobcoder.com",
+    "Seattle 11245 35th Avenue SW Boston 75 Arlington St Boston, MA 02116 sales@mobcoder.com",
+    "Vancouver Suite 300 - 3665 Kingsway Vancouver, BC V5R 5W2 sales@mobcoder.com"
+  ],
+  "social_links": {
+    "Instagram": "https://www.instagram.com/mobcoderinc/",
+    "Facebook": "https://www.facebook.com/mobcoderinc",
+    "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+    "Twitter": "https://twitter.com/mobcoderinc"
+  },
+  "tech_stack": [
+    "Google Analytics (GA4)"
+  ],
+  "seo": {
+    "score": 100,
+    "title": "Top Mobile, Web & AI App Development Company | Mobcoder",
+    "title_length": 55,
+    "meta_description": "Mobcoder is a leading mobile, web app, and AI development company delivering scalable, innovative digital solutions for startups and enterprises worldwide.",
+    "meta_length": 155,
+    "has_canonical": true,
+    "h1_count": 1,
+    "h2_count": 15,
+    "h3_count": 30,
+    "total_images": 290,
+    "missing_alt_images": 1,
+    "alt_text_coverage_pct": 99.6551724137931,
+    "top_keywords": [
+      {
+        "keyword": "development",
+        "count": 53,
+        "density_pct": 2.6368159203980097
+      },
+      {
+        "keyword": "hire",
+        "count": 51,
+        "density_pct": 2.5373134328358207
+      },
+      {
+        "keyword": "app",
+        "count": 50,
+        "density_pct": 2.4875621890547266
+      },
+      {
+        "keyword": "developers",
+        "count": 41,
+        "density_pct": 2.0398009950248754
+      },
+      {
+        "keyword": "solutions",
+        "count": 26,
+        "density_pct": 1.2935323383084576
+      }
+    ],
+    "readability_score": 30.778244682661835,
+    "recommendations": []
+  },
+  "performance": {
+    "source": "Lighthouse",
+    "score_performance": 31,
+    "score_accessibility": 83,
+    "score_best_practices": 56,
+    "score_seo": 100,
+    "fcp_s": 5.0969717999999995,
+    "lcp_s": 29.35492279999998,
+    "cls": 0.003288350574551923,
+    "tbt_ms": 1324.3725499999919,
+    "mobile_friendly": true,
+    "recommendations": [
+      "Eliminate render-blocking resources (potential savings: Est savings of 1,570\u00a0ms)",
+      "Remove unused JavaScript (potential savings: Est savings of 371\u00a0KiB)",
+      "Defer offscreen images (potential savings: Est savings of 420\u00a0KiB)"
+    ]
+  },
+  "cro": {
+    "score": 85,
+    "has_cta_above_fold": true,
+    "has_booking": true,
+    "has_chat": false,
+    "max_form_fields": 12,
+    "has_complex_forms": true,
+    "has_social_proof": true,
+    "has_trust_signals": true,
+    "has_sticky_cta": false,
+    "friction_points": [
+      "High-friction contact form detected with 12 fields.",
+      "No live chat or interactive lead capture widgets."
+    ],
+    "recommendations": [
+      "Simplify contact forms by reducing fields (currently max 12 fields, aim for 3-4 fields).",
+      "Install an interactive chat widget (e.g., HubSpot Chat, Drift) to capture visitors before they bounce."
+    ]
+  },
+  "hiring": {
+    "has_careers_page": false,
+    "careers_url": "",
+    "ats_detected": [],
+    "open_roles": [],
+    "role_count": 0,
+    "departments": {
+      "Engineering & Product": 0,
+      "Sales & Marketing": 0,
+      "Operations & Support": 0
+    },
+    "growth_focus": "Stable"
+  },
+  "social": {
+    "score": 100,
+    "platforms_detected": [
+      "Instagram",
+      "Facebook",
+      "LinkedIn",
+      "Twitter"
+    ],
+    "consistency_score": 20,
+    "recommendations": []
+  },
+  "reviews": {
+    "average_rating": 4.0,
+    "sentiment_label": "Neutral/No reviews found",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "common_praise": [],
+    "common_complaints": [],
+    "reputation_score": 75,
+    "reviews": []
+  },
+  "scores": {
+    "overall": 76,
+    "opportunity_tier": "Low",
+    "lead_quality": "Cold Lead (Highly Optimized)",
+    "scores": {
+      "seo": 100,
+      "performance": 31,
+      "conversion": 85,
+      "trust": 75,
+      "social": 100,
+      "growth": 40
+    }
+  },
+  "summary": "An executive review was performed on Mobcoder's web operations and marketing readiness. The site utilizes a tech stack consisting of Google Analytics (GA4). We identified significant mobile performance bottlenecks, which may increase bounce rates. Addressing these core metrics can increase visitor conversion and lead intake.",
+  "swot": {
+    "strengths": [
+      "Structured search metadata, including descriptive title and header configurations.",
+      "High-converting call-to-actions and direct booking/interaction channels.",
+      "Strong social proof backed by visible client reviews and testimonials.",
+      "Broad visibility across popular social channels."
+    ],
+    "weaknesses": [
+      "High page load latency, which increases visitor bounce rates."
+    ],
+    "opportunities": [
+      "Compress heavy images and optimize server script load order to increase mobile performance."
+    ],
+    "threats": [
+      "Competitors with faster mobile sites capturing organic traffic due to lower bounce rates."
+    ]
+  },
+  "outreach_email": "Subject: Quick growth audit for Mobcoder\n\nHi Mobcoder Team,\n\nI recently ran a quick performance and conversion audit on https://mobcoder.com/. We saw your active profiles on Instagram, Facebook, LinkedIn and Twitter.\n\nYou have a great foundation, but I noticed a couple of technical adjustments that are likely costing you leads and sales:\n\n- Mobile Performance: The website takes around 29.4 seconds to fully load, which is likely causing mobile visitors to bounce before they contact you.\n\nThese are relatively straightforward adjustments that can increase your conversion rates by 15-30%.\n\nI've put together a 10-minute video showing exactly how to fix these gaps. Would it be alright if I sent that video over? No strings attached.\n\nBest regards,\n\n[Your Name]\n[Your Contact Info]"
+}

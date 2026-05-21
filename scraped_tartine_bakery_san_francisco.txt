@@ -1,0 +1,80 @@
+=== SCRAPING RUN STARTED AT 2026-05-20 15:48:12 ===
+Target Businesses: ['Tartine Bakery San Francisco']
+
+[*] Businesses to scrape: ['Tartine Bakery San Francisco']
+[*] 
+=== Starting scrape for: Tartine Bakery San Francisco ===
+[*] Searching DuckDuckGo for: 'Tartine Bakery San Francisco'
+[*] Parsing search results for candidate business website...
+[*] Selected target business URL: https://gastronomyblog.com/2011/03/03/tartine-bakery/ (Title: 'Tartine Bakery | San Francisco | Gastronomy', Score: 0)
+[*] Fetching URL: https://gastronomyblog.com/2011/03/03/tartine-bakery/
+[*] Successfully fetched page content via Requests.
+[*] Scraping homepage...
+[*] Crawling subpage [1/2]: https://gastronomyblog.com/gastronomer/
+[*] Fetching URL: https://gastronomyblog.com/gastronomer/
+[*] Successfully fetched page content via Requests.
+[*] Crawling subpage [2/2]: https://gastronomyblog.com/contact/
+[*] Fetching URL: https://gastronomyblog.com/contact/
+[*] Successfully fetched page content via Requests.
+
+
+============================================================
+=== FINAL SCRAPED RESULTS AND OUTREACH EMAIL ===
+============================================================
+
+============================================================
+BUSINESS REPORT: Gastronomy |
+============================================================
+Website URL: https://gastronomyblog.com/2011/03/03/tartine-bakery/
+Description: Tartine Bakery - San Francisco
+
+Contact Emails:
+  - black.sheep.69@hotmail.com
+  - vikmurthy@gmail.com
+
+Phone Numbers:
+  - 415-487-2600
+
+Physical Addresses:
+  - None found
+
+Social Media Links:
+  - Yelp: http://menutaster.yelp.com
+  - Facebook: https://www.facebook.com/gastronomyblog
+  - Twitter: https://twitter.com/GastronomyBlog
+  - Instagram: https://instagram.com/gastronomyblog
+  - Pinterest: https://pinterest.com/gastronomyblog/
+
+Business Hours:
+  - None found
+
+============================================================
+PERSONALIZED OUTREACH EMAIL TEMPLATE
+============================================================
+Subject: Strategic Growth & Conversion Audit for Gastronomy
+
+Dear Gastronomy Team,
+
+I was exploring your website (https://gastronomyblog.com/2011/03/03/tartine-bakery/) and reading about how Gastronomy is 'Tartine Bakery - San Francisco'. I also loved looking at your Instagram feed—great visual presentation!
+
+ I noticed you make it easy for prospects to reach out via phone (415-487-2600) or email (black.sheep.69@hotmail.com).
+
+I'm reaching out because we specialize in helping companies optimize their digital conversion rates and scale their sales. For culinary businesses like Gastronomy, driving local foot traffic and streamlining online ordering is the key to growth.
+
+Looking at your setup, we identified a few key areas where you might be leaving money on the table:
+1. Local SEO optimization to dominate "near me" Google searches in your area.
+2. Mobile Menu & Ordering Streamlining: Making it effortless for customers to order directly from their phone.
+3. Review Acquisition: Setting up automated flows to get customers to write 5-star reviews on Google and Yelp.
+
+We've helped similar businesses increase their sales pipeline and conversion rates by 25-40% using these exact strategies.
+
+If you are open to it, I would love to share a short 10-minute video audit of your website with 3 actionable improvements you can implement immediately to boost your sales.
+
+Would you be open to a quick call next Tuesday or Wednesday?
+
+Best regards,
+
+[Your Name]
+[Your Contact Information]
+============================================================
+

@@ -1,0 +1,84 @@
+=== SCRAPING RUN STARTED AT 2026-05-20 15:49:43 ===
+Target Businesses: ['Blue Bottle Coffee Oakland']
+
+[*] Businesses to scrape: ['Blue Bottle Coffee Oakland']
+[*] 
+=== Starting scrape for: Blue Bottle Coffee Oakland ===
+[*] Searching DuckDuckGo for: 'Blue Bottle Coffee Oakland'
+[*] Parsing search results for candidate business website...
+[*] Selected target business URL: https://bluebottlecoffee.com/us/eng/northern-california-cafes (Title: 'bluebottlecoffee.com/us/eng/northern-california-cafes', Score: 50)
+[*] Fetching URL: https://bluebottlecoffee.com/us/eng/northern-california-cafes
+[*] Requests returned status code 403. Falling back to Headless Selenium...
+[*] Launching Headless Chrome...
+[*] Successfully fetched page content via Headless Selenium.
+[*] Scraping homepage...
+[*] Crawling subpage [1/2]: https://bluebottlecoffee.com/us/eng/cafes
+[*] Fetching URL: https://bluebottlecoffee.com/us/eng/cafes
+[*] Requests returned status code 403. Falling back to Headless Selenium...
+[*] Launching Headless Chrome...
+[*] Successfully fetched page content via Headless Selenium.
+[*] Crawling subpage [2/2]: https://bluebottlecoffee.com/us/eng/product/golden-hour-blend
+[*] Fetching URL: https://bluebottlecoffee.com/us/eng/product/golden-hour-blend
+[*] Requests returned status code 403. Falling back to Headless Selenium...
+[*] Launching Headless Chrome...
+[*] Successfully fetched page content via Headless Selenium.
+
+
+============================================================
+=== FINAL SCRAPED RESULTS AND OUTREACH EMAIL ===
+============================================================
+
+============================================================
+BUSINESS REPORT: Northern California Blue Bottle Coffee Cafe Locations
+============================================================
+Website URL: https://bluebottlecoffee.com/us/eng/northern-california-cafes
+Description: Find Northern California Blue Bottle Coffee shops near you.
+
+Contact Emails:
+  - None found
+
+Phone Numbers:
+  - None found
+
+Physical Addresses:
+  - None found
+
+Social Media Links:
+  - Facebook: https://www.facebook.com/bluebottlecoffee
+  - Twitter: https://www.twitter.com/bluebottleroast
+  - Instagram: https://www.instagram.com/bluebottle
+  - YouTube: https://www.youtube.com/channel/UCyki4e6RG84BT_xzi4oYkRw
+
+Business Hours:
+  - None found
+
+============================================================
+PERSONALIZED OUTREACH EMAIL TEMPLATE
+============================================================
+Subject: Strategic Growth & Conversion Audit for Northern California Blue Bottle Coffee Cafe Locations
+
+Dear Northern California Blue Bottle Coffee Cafe Locations Team,
+
+I was exploring your website (https://bluebottlecoffee.com/us/eng/northern-california-cafes) and reading about how Northern California Blue Bottle Coffee Cafe Locations is 'Find Northern California Blue Bottle Coffee shops near you.'. I also loved looking at your Instagram feed—great visual presentation!
+
+ I checked out your website's contact options.
+
+I'm reaching out because we specialize in helping companies optimize their digital conversion rates and scale their sales. For culinary businesses like Northern California Blue Bottle Coffee Cafe Locations, driving local foot traffic and streamlining online ordering is the key to growth.
+
+Looking at your setup, we identified a few key areas where you might be leaving money on the table:
+1. Local SEO optimization to dominate "near me" Google searches in your area.
+2. Mobile Menu & Ordering Streamlining: Making it effortless for customers to order directly from their phone.
+3. Review Acquisition: Setting up automated flows to get customers to write 5-star reviews on Google and Yelp.
+
+We've helped similar businesses increase their sales pipeline and conversion rates by 25-40% using these exact strategies.
+
+If you are open to it, I would love to share a short 10-minute video audit of your website with 3 actionable improvements you can implement immediately to boost your sales.
+
+Would you be open to a quick call next Tuesday or Wednesday?
+
+Best regards,
+
+[Your Name]
+[Your Contact Information]
+============================================================
+
