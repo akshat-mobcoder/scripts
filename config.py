@@ -8,9 +8,10 @@ OUTPUT_JSON_DIR = os.path.join(BASE_DIR, "outputs", "json")
 OUTPUT_REPORTS_DIR = os.path.join(BASE_DIR, "outputs", "reports")
 OUTPUT_SCREENSHOTS_DIR = os.path.join(BASE_DIR, "outputs", "screenshots")
 OUTPUT_AUDITS_DIR = os.path.join(BASE_DIR, "outputs", "audits")
+OUTPUT_EVIDENCE_DIR = os.path.join(BASE_DIR, "outputs", "evidence")
 
 # Ensure all output directories exist
-for directory in [OUTPUT_JSON_DIR, OUTPUT_REPORTS_DIR, OUTPUT_SCREENSHOTS_DIR, OUTPUT_AUDITS_DIR]:
+for directory in [OUTPUT_JSON_DIR, OUTPUT_REPORTS_DIR, OUTPUT_SCREENSHOTS_DIR, OUTPUT_AUDITS_DIR, OUTPUT_EVIDENCE_DIR]:
     os.makedirs(directory, exist_ok=True)
 
 # Crawler Settings

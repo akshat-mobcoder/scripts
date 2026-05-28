@@ -1,0 +1,3 @@
+business_name,email,phone,channel,consent,approved
+Example Company,team@example.com,+15551234567,email,true,true
+Example Company,,+15551234567,whatsapp,true,true

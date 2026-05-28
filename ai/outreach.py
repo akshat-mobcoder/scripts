@@ -4,13 +4,14 @@ logger = setup_logger("ai.outreach")
 
 class OutreachGenerator:
     @staticmethod
-    def generate_email(data):
-        """Build a personalized sales outreach email highlighting key gaps found in the audit."""
+    def generate_messages(data):
+        """Build channel-specific outreach drafts from permitted company-level data."""
         logger.info("Drafting personalized outreach templates...")
         
         name = data.get("business_name") or "your business"
         clean_name = name.split('|')[0].split('-')[0].strip()
         url = data.get("website_url") or "your website"
+        description = data.get("description") or ""
         
         scores = data.get("scores", {}).get("scores", {})
         seo = scores.get("seo", 70)
@@ -29,7 +30,19 @@ class OutreachGenerator:
             
         if not issues:
             issues.append("Mobile Lead Capture: Adding conversational widgets and interactive elements could further optimize your client intake funnel.")
-            
+
+        ctas = data.get("conversion_actions", [])
+        cta_text = ""
+        if ctas:
+            top_cta = ctas[0].get("text", "")
+            if top_cta:
+                cta_text = f"I noticed your primary website action is '{top_cta}', so I focused the audit on reducing friction around that path."
+
+        hours = data.get("business_hours", [])
+        hours_text = ""
+        if hours:
+            hours_text = f"Your visible hours include {hours[0]}, which makes fast response time especially important when prospects are ready to act."
+
         # Social media context
         socials = list(data.get("social_links", {}).keys())
         social_text = ""
@@ -39,12 +52,20 @@ class OutreachGenerator:
             social_text = "We also noticed you don't have active links to social media platforms in your main menu, which is a great way to build client trust."
             
         issues_formatted = "\n\n".join([f"- {iss}" for iss in issues])
+        description_hook = ""
+        if description:
+            snippet = description if len(description) <= 160 else description[:157].rstrip() + "..."
+            description_hook = f"I saw that {clean_name} positions itself around: \"{snippet}\""
         
         email_body = f"""Subject: Quick growth audit for {clean_name}
 
 Hi {clean_name} Team,
 
 I recently ran a quick performance and conversion audit on {url}. {social_text}
+
+{description_hook}
+
+{cta_text} {hours_text}
 
 You have a great foundation, but I noticed a couple of technical adjustments that are likely costing you leads and sales:
 
@@ -54,8 +75,31 @@ These are relatively straightforward adjustments that can increase your conversi
 
 I've put together a 10-minute video showing exactly how to fix these gaps. Would it be alright if I sent that video over? No strings attached.
 
+If this is not relevant, reply "not interested" and I will not follow up.
+
 Best regards,
 
 [Your Name]
 [Your Contact Info]"""
-        return email_body
+
+        whatsapp_body = f"""Hi {clean_name} Team, I reviewed {url} and found a few quick conversion opportunities:
+
+1. {issues[0]}
+{f"2. {issues[1]}" if len(issues) > 1 else ""}
+
+{cta_text or "The fixes look practical and focused on getting more website visitors to take action."}
+
+Would you like me to send a short video audit with 3 specific improvements? Reply STOP if you do not want messages."""
+
+        sms_body = f"""Hi {clean_name}, I reviewed {url} and found quick website conversion wins. Can I send a short video audit with 3 fixes? Reply STOP to opt out."""
+
+        return {
+            "email": email_body,
+            "whatsapp": whatsapp_body,
+            "sms": sms_body
+        }
+
+    @staticmethod
+    def generate_email(data):
+        """Backward-compatible helper for existing reports."""
+        return OutreachGenerator.generate_messages(data)["email"]

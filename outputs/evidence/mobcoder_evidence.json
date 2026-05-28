@@ -1,0 +1,1989 @@
+{
+  "business_name": "Mobcoder",
+  "website_url": "https://mobcoder.com",
+  "crawler_settings": {
+    "max_depth": 2,
+    "max_pages_per_domain": 10,
+    "concurrency_limit": 3,
+    "timeout_ms": 15000,
+    "rate_limit_seconds": 1.0,
+    "max_retries": 3,
+    "backoff_factor": 2.0,
+    "respect_robots_txt": true
+  },
+  "pages": [
+    {
+      "url": "https://mobcoder.com/contact",
+      "title": "Contact Mobcoder for IoT, Web, Mobile App Design & Development",
+      "meta_description": "Contact Mobcoder for IoT, Web & Mobile App Development. Let\\'s partner up at sales@mobcoder.com if you have an app idea for us to bring to life.",
+      "headings": {
+        "h1": [
+          "Get In Touch"
+        ],
+        "h2": [
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h3": [],
+        "h4": [
+          "Our consultants will respond back within 1 business days or less.",
+          "Are you looking for job? send your resume to hr@mobcoder.com"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [
+        "hr@mobcoder.com",
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [],
+      "addresses": [],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "https://mobcoder.com/contact/"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [
+        {
+          "input_count": 11,
+          "method": "post",
+          "action": "https://mobcoder.com/contact",
+          "fields": [
+            "name",
+            "email",
+            "contactno",
+            "hear",
+            "description",
+            "Minimum budget (in thousands)",
+            "Maximum budget (in thousands)",
+            "my_range",
+            "call_geolocatin",
+            "lat",
+            "lng"
+          ]
+        }
+      ],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Contact Mobcoder for IoT, Web, Mobile App Design & Development",
+        "description": "Contact Mobcoder for IoT, Web & Mobile App Development. Let\\'s partner up at sales@mobcoder.com if you have an app idea for us to bring to life.",
+        "h1": [
+          "Get In Touch"
+        ],
+        "paragraphs": [
+          "By clicking submit, you agree to send your information to Mobcoder\u2122 who agrees to use it according to their privacy policy",
+          "If required, we can provide a NDA after an initial phone conversation",
+          "\u00a9 2014-2026 Mobcoder\u2122 | Privacy Policy | Terms of Use"
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [],
+        "addresses": [],
+        "geo": []
+      }
+    },
+    {
+      "url": "https://mobcoder.com/about-us/",
+      "title": "About Us - Mobcoder",
+      "meta_description": "Mobcoder is leading Software Development Company in USA that offer services like iOS App development, Android App Development, Web Development, Cross-Platform Development, Node.js Development, UI/UX design and etc.",
+      "headings": {
+        "h1": [
+          "Who You Partner With Matters"
+        ],
+        "h2": [
+          "Meet Our Team",
+          "Our Core Values",
+          "Our Process Simple, Seamless, Streamlined",
+          "No need to wonder Working with us is wonderful",
+          "Our Global Presence",
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h3": [
+          "Ashutosh Singh",
+          "Girijesh Kumar",
+          "Shalu Chaudhary",
+          "Rahul Singh",
+          "Marc Rothmeyer",
+          "Charlie Marjot",
+          "Ben Fisher",
+          "STEP 1",
+          "STEP 2",
+          "STEP 3",
+          "Want to accelerate software development at your company?",
+          "Noida",
+          "Seattle",
+          "Boston",
+          "Vancouver",
+          "Dubai",
+          "Riyadh",
+          "London",
+          "Australia"
+        ],
+        "h4": [
+          "UNPARALLELED EXCELLENCE",
+          "TRANSPARENCY & INTEGRITY",
+          "CONTINUOUS INNOVATION",
+          "HUMAN-FIRST COLLABORATION",
+          "Join exploration call",
+          "Discuss solution and team structure",
+          "Get started and track performance"
+        ],
+        "h5": [],
+        "h6": [
+          "The right people",
+          "The right team",
+          "The right place",
+          "The right time"
+        ]
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 206 295 9310",
+        "+44 776 695 0547",
+        "+61 0401954097",
+        "+61401954097"
+      ],
+      "addresses": [
+        "75 Arlington St Boston, MA 02116",
+        "Australia 3 Yaralla Rd, Bentleigh East, VIC, 3165 sales@mobcoder.com",
+        "B-4, 2nd Floor, Sector 63",
+        "Dubai Level 1, Avenue Gate, South Zone, DIFC, Dubai, UAE sales@mobcoder.com",
+        "India USA Canada UAE KSA UK Australia",
+        "London The Long Barn Down Farm Cobham Park Road Surrey, Cobham KT11 3NE sales@mobcoder.com",
+        "Noida B-4/5, 2nd Floor Sector 63, Noida 201301 sales@mobcoder.com",
+        "PO Box 28922, Seattle",
+        "Riyadh Level 29, Tower B, Olaya Towers, Riyadh-12213, Saudi Arabia/p> sales@mobcoder.com",
+        "Seattle 11245 35th Avenue SW Boston 75 Arlington St Boston, MA 02116 sales@mobcoder.com",
+        "Vancouver Suite 300 - 3665 Kingsway Vancouver, BC V5R 5W2 sales@mobcoder.com"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "https://mobcoder.com/contact/"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "LET\u2019S TALK",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "About Us - Mobcoder",
+        "description": "Mobcoder is leading Software Development Company in USA that offer services like iOS App development, Android App Development, Web Development, Cross-Platform Development, Node.js Development, UI/UX design and etc.",
+        "h1": [
+          "Who You Partner With Matters"
+        ],
+        "paragraphs": [
+          "We take an innovative approach to solving real-world problems through app design and development.",
+          "We at Mobcoder\u2122 pride ourselves on taking an innovative approach to help organizations across the globe bring their digital vision to life. Here\u2019s what you can count on every time you work with us:",
+          "Tell us more about your business on a discovery call. We\u2019ll discuss team structure and approach, success criteria, timescale, budget, and required skill sets to see how we can help."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "",
+          "+61 0401954097",
+          "+44 776 695 0547",
+          "+1 206 295 9310",
+          "+61401954097"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "Victoria",
+          "Noida",
+          "WA",
+          "B-4, 2nd Floor, Sector 63",
+          "3 Yaralla Rd",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Uttar Pradesh",
+          "United States",
+          "US",
+          "Bentleigh East"
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    },
+    {
+      "url": "https://blog.mobcoder.com/global-app-stores-overview/",
+      "title": "An overview of Global App Stores | Leading App Stores of 2021",
+      "meta_description": "This International Litracy Day, let's focus on Global App Stores to shape your business with niche users. Ultimate App store list of 2021 for worldwide content.",
+      "headings": {
+        "h1": [
+          "Celebrating International Literacy Day \u2013 An overview of Global App Stores of 2021"
+        ],
+        "h2": [
+          "The Ultimate Global App Stores of 2021:"
+        ],
+        "h3": [
+          "1. Google Playstore",
+          "2. Apple App Store",
+          "3. Amazon App Store",
+          "4. 1Mobile App Store",
+          "5. Tencent App Store",
+          "CONCLUSION",
+          "You may also like"
+        ],
+        "h4": [
+          "Author",
+          "Table of Content",
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h5": [
+          "Pradeep Kunwar",
+          "September 8, 2021 | 5 min. read"
+        ],
+        "h6": [
+          "Google Playstore",
+          "Apple App Store",
+          "Amazon App Store",
+          "1Mobile App Store",
+          "Tencent App Store",
+          "Marc Rothmeyer",
+          "Charlie Marjot"
+        ]
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 (306) 716-9910",
+        "+1 206 745 2299",
+        "+1 306 850 8510",
+        "+13067169910",
+        "+44 776 695 0547",
+        "+91 (8750) 111-200",
+        "+918750111200",
+        "+971 (52) 550-1609",
+        "+971525501609"
+      ],
+      "addresses": [
+        "PO Box 28922, Seattle",
+        "The Long Barn, Down Farm, CobhamPark Road, Surrey"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "Get A Quote",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Get in touch",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "An overview of Global App Stores | Leading App Stores of 2021",
+        "description": "This International Litracy Day, let's focus on Global App Stores to shape your business with niche users. Ultimate App store list of 2021 for worldwide content.",
+        "h1": [
+          "Celebrating International Literacy Day \u2013 An overview of Global App Stores of 2021"
+        ],
+        "paragraphs": [
+          "As said by Martin Luther King Jr -\u201c The function of education is to teach one to think critically. Intelligence plus character- that is the goal of true education.\u201d",
+          "Learn here the Difference between Google Playstore and Apple App Store to witness both sides of the ambit whether Android or iOS.",
+          "Where Apple and Google continue to rule the conversation, there are other wildcats with various degrees of market success. The Amazon Appstore contains nearly 4.6 Lakhs android apps worldwide in popular categories like"
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "+1 306 850 8510",
+          "+1 206 745 2299",
+          "+44 776 695 0547"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "United Kingdom",
+          "WA",
+          "Bottomley Ave",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Canada",
+          "Cobham",
+          "Saskatoon",
+          "United States",
+          "US",
+          "The Long Barn, Down Farm, CobhamPark Road, Surrey "
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    },
+    {
+      "url": "https://blog.mobcoder.com/myths-about-hiring-developers-offshore/",
+      "title": "Hiring Developers Offshore- 5 Most Common Myths You Should Know",
+      "meta_description": "Every company is seeing hiring developers offshore as a business and economic advantage to get things done at a reasonable cost.",
+      "headings": {
+        "h1": [
+          "5 Most Common Myths About Hiring Developers Offshore"
+        ],
+        "h2": [
+          "#Myth1: Size of a Company",
+          "#Myth2: Technology Standard on stake",
+          "#Myth3: Handsome Amount is required",
+          "#Myth4: No Data Confidentiality",
+          "#Myth5: No Support after Development",
+          "How is Offshore Development now Safe and Secure for you?"
+        ],
+        "h3": [
+          "You may also like"
+        ],
+        "h4": [
+          "Author",
+          "Table of Content",
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h5": [
+          "Marc Rothmeyer",
+          "June 22, 2022 | 4 min. read"
+        ],
+        "h6": [
+          "How is Offshore Development now Safe and Secure for you?",
+          "Charlie Marjot",
+          "Chris Chorney"
+        ]
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 (306) 716-9910",
+        "+1 206 745 2299",
+        "+1 306 850 8510",
+        "+13067169910",
+        "+44 776 695 0547",
+        "+91 (8750) 111-200",
+        "+918750111200",
+        "+971 (52) 550-1609",
+        "+971525501609"
+      ],
+      "addresses": [
+        "PO Box 28922, Seattle",
+        "The Long Barn, Down Farm, CobhamPark Road, Surrey"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "Get A Quote",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Get in touch",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Hiring Developers Offshore- 5 Most Common Myths You Should Know",
+        "description": "Every company is seeing hiring developers offshore as a business and economic advantage to get things done at a reasonable cost.",
+        "h1": [
+          "5 Most Common Myths About Hiring Developers Offshore"
+        ],
+        "paragraphs": [
+          "Thus, many companies have finally come out of the bubble of hiring developers offshore myth and see it as a smart business move that allows them to get expertise on board without the regard for geographical restrictions.",
+          "\u00a9 2014-2026 Mobcoder\u2122 | Privacy Policy | Terms of Use"
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "+1 306 850 8510",
+          "+1 206 745 2299",
+          "+44 776 695 0547"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "United Kingdom",
+          "WA",
+          "Bottomley Ave",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Canada",
+          "Cobham",
+          "Saskatoon",
+          "United States",
+          "US",
+          "The Long Barn, Down Farm, CobhamPark Road, Surrey "
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    },
+    {
+      "url": "https://mobcoder.com/application-support-and-maintenance",
+      "title": "Mobile App Maintenance and Support Services",
+      "meta_description": "Mobcoder provides reliable mobile app maintenance and support services to ensure your apps run smoothly, stay updated, and deliver seamless user experiences.",
+      "headings": {
+        "h1": [
+          "Mobile App Maintenance and Support Services"
+        ],
+        "h2": [
+          "LET YOUR APP RUN AND EVOLVE SMOOTHLY",
+          "By enhancing their metrics strategy and delivering enterprise value, Mobcoder\u2122 application maintenance services reduce costs and improve back-office services",
+          "Transforming business through application maintenance and support",
+          "Need help with Application Support & Maintenance?",
+          "Apps we support & maintain",
+          "App Maintenance and Support Services",
+          "Need help with Application Support & Maintenance?",
+          "Mobcoder\u2122 as Your Application Maintenance Company",
+          "Frequently Asked Questions",
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h3": [
+          "Flexibility",
+          "Scalability",
+          "Proactive monitoring",
+          "Efficiency",
+          "Effectiveness",
+          "Experience"
+        ],
+        "h4": [
+          "WEB APPS",
+          "CLOUD APPS & SAAS",
+          "DATABASE APPS",
+          "MOBILE APPS",
+          "AR/VR APPS",
+          "DESKTOP APPS",
+          "Mobile App Maintenance",
+          "Web App Maintenance",
+          "Performance Monitoring",
+          "Application Re-engineering",
+          "Application Integration",
+          "Application Support"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 206 295 9310",
+        "+44 776 695 0547",
+        "+61 0401954097",
+        "+61401954097"
+      ],
+      "addresses": [
+        "B-4, 2nd Floor, Sector 63",
+        "PO Box 28922, Seattle"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "https://mobcoder.com/contact/"
+        },
+        {
+          "text": "LET'S DISCUSS",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "LET'S TALK",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "LET'S TALK",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Mobile App Maintenance and Support Services",
+        "description": "Mobcoder provides reliable mobile app maintenance and support services to ensure your apps run smoothly, stay updated, and deliver seamless user experiences.",
+        "h1": [
+          "Mobile App Maintenance and Support Services"
+        ],
+        "paragraphs": [
+          "Providing high-performance applications for tomorrow\u2019s customers",
+          "Reduce operating and app maintenance costs with self-funded IT transformation initiatives",
+          "Maintaining and supporting mobile applications is an essential part of staying competitive and enhancing business productivity."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "",
+          "+61 0401954097",
+          "+44 776 695 0547",
+          "+1 206 295 9310",
+          "+61401954097"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "Victoria",
+          "Noida",
+          "WA",
+          "B-4, 2nd Floor, Sector 63",
+          "3 Yaralla Rd",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Uttar Pradesh",
+          "United States",
+          "US",
+          "Bentleigh East"
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    },
+    {
+      "url": "https://blog.mobcoder.com/google-stadia-everything-you-need-to-know-about-the-future-of-gaming/",
+      "title": "Google Stadia- Everything you need to know about the future of gaming",
+      "meta_description": "Google Stadia launching date is around the corner and it is gaining traction in the gaming world.",
+      "headings": {
+        "h1": [
+          "Everything that you need to know about the future of gaming- Google Stadia"
+        ],
+        "h2": [
+          "Now coming down to some of its out-of-the-box features which might revolutionize the way the gaming world\u2014",
+          "Stadia integrates with YouTube"
+        ],
+        "h3": [
+          "Now it\u2019s time to come down to the hardware part!",
+          "Amazingly, it is more than a controller. Now without much ado, look at some of its features\u2014",
+          "Summary with a viewpoint",
+          "You may also like"
+        ],
+        "h4": [
+          "Author",
+          "Table Of Content",
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h5": [
+          "Pradeep Kunwar",
+          "November 14, 2019 | 5 min. read"
+        ],
+        "h6": [
+          "Now coming down to some of its out-of-the-box features which might revolutionize the way the gaming world",
+          "Stadia integrates with YouTube",
+          "Charlie Marjot",
+          "Benjamin Fisher"
+        ]
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 (306) 716-9910",
+        "+1 206 745 2299",
+        "+1 306 850 8510",
+        "+13067169910",
+        "+44 776 695 0547",
+        "+91 (8750) 111-200",
+        "+918750111200",
+        "+971 (52) 550-1609",
+        "+971525501609"
+      ],
+      "addresses": [
+        "PO Box 28922, Seattle",
+        "The Long Barn, Down Farm, CobhamPark Road, Surrey"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "Get A Quote",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Get in touch",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Google Stadia- Everything you need to know about the future of gaming",
+        "description": "Google Stadia launching date is around the corner and it is gaining traction in the gaming world.",
+        "h1": [
+          "Everything that you need to know about the future of gaming- Google Stadia"
+        ],
+        "paragraphs": [
+          "Google Stadia launching date is around the corner and it is gaining traction in the gaming world. For now, it is launching on November 19 in the United States, Canada, the United Kingdom, and 11 countries in Europe.",
+          "Practically, It is a gaming platform by Google and the tech giant is defining \u2018Stadia\u2019 as focusing on gamers, inspired by the developers and amplified by the YouTube creators.",
+          "By introducing the \u201cRigid Body Physics\u201d concept in the gaming world, Google is living up to the vision of creating \u201cone place for all the way we play\u201d."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "+1 306 850 8510",
+          "+1 206 745 2299",
+          "+44 776 695 0547"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "United Kingdom",
+          "WA",
+          "Bottomley Ave",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Canada",
+          "Cobham",
+          "Saskatoon",
+          "United States",
+          "US",
+          "The Long Barn, Down Farm, CobhamPark Road, Surrey "
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    },
+    {
+      "url": "https://mobcoder.com",
+      "title": "Top Mobile, Web & AI App Development Company | Mobcoder",
+      "meta_description": "Mobcoder is a leading mobile, web app, and AI development company delivering scalable, innovative digital solutions for startups and enterprises worldwide.",
+      "headings": {
+        "h1": [
+          "We help you in Mobile App Development for your business."
+        ],
+        "h2": [
+          "WHY US",
+          "Our Valuable Clients",
+          "Our Services",
+          "We Build Impactful Apps and Digital Solutions for Your Business",
+          "PORTFOLIO",
+          "Innovate | Accelerate | Thrive",
+          "Hear What Our Clients Have To Say",
+          "AI Tailored for Your Business \u2013 Book a Free Expert Consultation Today!",
+          "Industries We Serve",
+          "Hire Expert Developers for Your Project",
+          "Our Latest Blog",
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h3": [
+          "Data Analytics",
+          "Artificial Intelligence (AI)",
+          "Mobile App Development",
+          "Web Development",
+          "Cross-platform App Development Company",
+          "Internet of Things (IoT)",
+          "SAP Migration",
+          "SaaS App Development",
+          "DevOps",
+          "Turn data into opportunities with our advanced Data Analytics services",
+          "Media & Entertainment",
+          "Fitness & Sports",
+          "Gaming",
+          "Retail & E-Commerce",
+          "Banking & Finance",
+          "Healthcare",
+          "Real Estate",
+          "Travel & Tourism",
+          "Education E-Learning",
+          "Startup",
+          "Automotive",
+          "Food & Drink",
+          "iOS vs Android App Development: What Should You Choose in 2025?",
+          "5 Key Benefits of Hiring a Dedicated Flutter App Development Team",
+          "Top Software Development Services Businesses Need in 2025",
+          "How It All Started and What Drives Us Today",
+          "+",
+          "+",
+          "+",
+          "$ M+"
+        ],
+        "h4": [
+          "Connect With Our Experts"
+        ],
+        "h5": [
+          "DEDICATED TEAMS",
+          "CERTIFIED PROFESSIONAL",
+          "24/7 SUPPORT TEAM",
+          "General Mills",
+          "TREAD Map",
+          "Optifo",
+          "Cultsport",
+          "Hire AI/ML Developers",
+          "Hire Flutter Developers",
+          "Hire React Native Developers",
+          "Hire iOS Developers",
+          "Hire Android Developers",
+          "Hire Full Stack Developers",
+          "Hire React JS Developers",
+          "Hire Node JS Developers",
+          "Hire RPA Developers"
+        ],
+        "h6": [
+          "We have over 10+ years in the Tech Industry"
+        ]
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 206 295 9310",
+        "+44 776 695 0547",
+        "+61 0401954097",
+        "+61401954097"
+      ],
+      "addresses": [
+        "B-4, 2nd Floor, Sector 63",
+        "PO Box 28922, Seattle"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "https://mobcoder.com/contact/"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Book Your Consultation",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire now",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire now",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire now",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire now",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire now",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire now",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire now",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire now",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire now",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [
+        {
+          "input_count": 12,
+          "method": "post",
+          "action": "https://mobcoder.com/contact-form-submit",
+          "fields": [
+            "name",
+            "contactno",
+            "email",
+            "hear",
+            "description",
+            "lat",
+            "lng",
+            "is_found_sidebar_contact_form",
+            "call_geolocatin",
+            "pageOrigin",
+            "utm_source",
+            "is_home_contact_form"
+          ]
+        }
+      ],
+      "has_testimonials": true,
+      "page_summary": {
+        "title": "Top Mobile, Web & AI App Development Company | Mobcoder",
+        "description": "Mobcoder is a leading mobile, web app, and AI development company delivering scalable, innovative digital solutions for startups and enterprises worldwide.",
+        "h1": [
+          "We help you in Mobile App Development for your business."
+        ],
+        "paragraphs": [
+          "Leading Enterprise Solution Partner in North America",
+          "We offer a wide range of software development services and solutions to digitize and automate your business. We count on cutting-edge technology to render software tailored to match your use case, budget, and deadline.",
+          "We offers data analytics services that can help you gain insights and make wise decisions. Convert your data into intelligence that can be used to make smart decisions."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "",
+          "+61 0401954097",
+          "+44 776 695 0547",
+          "+1 206 295 9310",
+          "+61401954097"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "Victoria",
+          "Noida",
+          "WA",
+          "B-4, 2nd Floor, Sector 63",
+          "3 Yaralla Rd",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Uttar Pradesh",
+          "United States",
+          "US",
+          "Bentleigh East"
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    },
+    {
+      "url": "https://mobcoder.com/event",
+      "title": "Elevate Your Knowledge: Explore Events & Webinars | Mobcoder",
+      "meta_description": "Discover the latest in tech innovation and expertise with our lineup of events and webinars. Stay ahead in the fast-paced world of technology with insightful discussions, expert panels, and cutting-edge presentations.",
+      "headings": {
+        "h1": [
+          "Events & Webinars"
+        ],
+        "h2": [
+          "Collision Conference 2024",
+          "SXSW 2024",
+          "LEAP 2024",
+          "Events Gallery",
+          "CES (Consumer Technology Association)",
+          "Collision Conference",
+          "Our Latest Blog",
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h3": [
+          "Attending Collision Conference 2024 in Toronto, Mobcoder\u2122 showcases innovation and technology, connecting with industry leaders and tech enthusiasts.",
+          "We participated in the renowned SXSW 2024 Conference in Austin, Texas, from March 8th to 16th, showcasing innovation and networking.",
+          "Take Your Business to New Heights with Expert Software Developers",
+          "Mobcoder\u2122 joins LEAP 2024 Conference in Riyadh, March 4-7, showcasing innovation, networking with global leaders in tech.",
+          "Mobcoder\u2122 proudly participated in the CES 2024 event, showcasing its latest advancements and contributions to the world of consumer technologies.",
+          "We attended Collision Conf 2023 in Canada, June 26-29, showcasing innovation and networking with tech leaders.",
+          "iOS vs Android App Development: What Should You Choose in 2025?",
+          "5 Key Benefits of Hiring a Dedicated Flutter App Development Team",
+          "Top Software Development Services Businesses Need in 2025"
+        ],
+        "h4": [
+          "DISCOVER NEW OPPORTUNITIES AT THE FOREFRONT OF TECHNOLOGY: COLLISION CONFERENCE",
+          "EXPERIENCE THE WORLD\u2019S LARGEST TECH EVENT: JOURNEY INTO NEW WORLDS AT SXSW",
+          "THE WORLD\u2019S MOST ATTENDED TECH EVENT, WHERE YOU JOURNEY INTO NEW WORLDS",
+          "TOP TECH EVENT, SHOWCASING BREAKTHROUGHS & GLOBAL INNOVATORS. POWERFULLY INFLUENTIAL.",
+          "EXPLORE NEW HORIZONS AT THE WORLD\u2019S PREMIER TECH EVENT: COLLISION CONFERENCE"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 206 295 9310",
+        "+44 776 695 0547",
+        "+61 0401954097",
+        "+61401954097"
+      ],
+      "addresses": [
+        "B-4, 2nd Floor, Sector 63",
+        "PO Box 28922, Seattle"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "https://mobcoder.com/contact/"
+        },
+        {
+          "text": "LET\u2019S TALK",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Elevate Your Knowledge: Explore Events & Webinars | Mobcoder",
+        "description": "Discover the latest in tech innovation and expertise with our lineup of events and webinars. Stay ahead in the fast-paced world of technology with insightful discussions, expert panels, and cutting-edge presentations.",
+        "h1": [
+          "Events & Webinars"
+        ],
+        "paragraphs": [
+          "Participating in the Collision Conference from 17-20 June 2024 in Toronto, Mobcoder\u2122 highlighted cutting-edge technology solutions and fostered networking opportunities with industry leaders and innovators from around the globe.",
+          "In 2025, mobile apps will continue to drive global digital engagement. Whether you're building a startup MVP, launching an enterprise solution, or creating a consumer-facing product, the first and most crucial decision remains:",
+          "In today's mobile-driven world, creating high-performance, visually appealing apps that work seamlessly across platforms isn't just a nice-to-have \u2014 it's a strategic imperative."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "",
+          "+61 0401954097",
+          "+44 776 695 0547",
+          "+1 206 295 9310",
+          "+61401954097"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "Victoria",
+          "Noida",
+          "WA",
+          "B-4, 2nd Floor, Sector 63",
+          "3 Yaralla Rd",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Uttar Pradesh",
+          "United States",
+          "US",
+          "Bentleigh East"
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    },
+    {
+      "url": "https://mobcoder.com/devops",
+      "title": "DevOps Services & Solutions | DevOps Consulting Company",
+      "meta_description": "Accelerate your software delivery with expert DevOps services and solutions. A leading DevOps consulting company helping businesses achieve faster, reliable deployments.",
+      "headings": {
+        "h1": [
+          "DevOps A one-stop solution for all your IT needs",
+          "Our DevOps Engineering Stages"
+        ],
+        "h2": [
+          "Our DevOps consultants assist in expediting releases, cutting costs, and maintaining a competitive edge.",
+          "Our DevOps Services",
+          "Our DevOps Consulting & Engineering Expertise",
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h3": [
+          "Our Valuable Clients"
+        ],
+        "h4": [
+          "Amazon",
+          "Azure",
+          "Cloud Engine",
+          "Docker",
+          "Kubernetes",
+          "Elasticbox",
+          "Application Insight",
+          "Cloud template",
+          "Lighthouse",
+          "Puppet",
+          "App Engine",
+          "AWS Lambda",
+          "Azure Function",
+          "Cloud Function",
+          "Elastic Beanstalk",
+          "Cloud Front",
+          "GCS-Cloud Storage",
+          "Load Balancer",
+          "S3 / S3 Glacier",
+          "Postgres",
+          "Mongodb",
+          "MySQL",
+          "Firebase",
+          "Kafka",
+          "Rabbit MQ",
+          "01",
+          "02",
+          "03",
+          "04"
+        ],
+        "h5": [
+          "PLANNING",
+          "TESTING",
+          "DEPLOYMENT",
+          "MONITORING"
+        ],
+        "h6": [
+          "DEVOPS ASSESSMENT & STRATEGY PLANNING",
+          "APPLICATION AND CLOUD MANAGEMENT",
+          "CONTINUOUS INTEGRATION AND TESTING",
+          "DEVOPS MANAGED SERVICES",
+          "END-TO-END DEVOPS IMPLEMENTATIONS",
+          "DEVOPS CONSULTING SERVICES"
+        ]
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 206 295 9310",
+        "+44 776 695 0547",
+        "+61 0401954097",
+        "+61401954097"
+      ],
+      "addresses": [
+        "B-4, 2nd Floor, Sector 63",
+        "PO Box 28922, Seattle"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "https://mobcoder.com/contact/"
+        },
+        {
+          "text": "LET'S TALK",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "LET\u2019S TALK",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "LET\u2019S TALK",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "DevOps Services & Solutions | DevOps Consulting Company",
+        "description": "Accelerate your software delivery with expert DevOps services and solutions. A leading DevOps consulting company helping businesses achieve faster, reliable deployments.",
+        "h1": [
+          "DevOps A one-stop solution for all your IT needs",
+          "Our DevOps Engineering Stages"
+        ],
+        "paragraphs": [
+          "Get free consultation and let us know your project idea to turn it into an amazing digital product.",
+          "Elevate software development with Mobcoder\u2122 DevOps consulting and engineering services, utilizing collaboration, monitoring, automation, and cloud adoption for greater efficiency.",
+          "We assist businesses in evaluating their current IT infrastructure and application lifecycle capabilities, assess the status of their DevOps services and solutions, and collaborate on crafting a roadmap, actionable plan, and essential requirements."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "",
+          "+61 0401954097",
+          "+44 776 695 0547",
+          "+1 206 295 9310",
+          "+61401954097"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "Victoria",
+          "Noida",
+          "WA",
+          "B-4, 2nd Floor, Sector 63",
+          "3 Yaralla Rd",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Uttar Pradesh",
+          "United States",
+          "US",
+          "Bentleigh East"
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    },
+    {
+      "url": "https://mobcoder.com/product-stories",
+      "title": "Our Product Stories That Make Us Stand Out",
+      "meta_description": "Discover the essence of innovation with Mobcoder through our product stories. Uncover the journey of groundbreaking solutions, exceptional creativity, and technological brilliance that define our commitment to delivering excellence in every project.",
+      "headings": {
+        "h1": [
+          "Projects That Make Us Stand Out"
+        ],
+        "h2": [
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h3": [
+          "GENERAL MILLS",
+          "Cultsport play",
+          "voilo business",
+          "Cultsport",
+          "OPTIFO",
+          "campsez",
+          "VideoBomb",
+          "Treadmap",
+          "Zeppelin",
+          "Showhub",
+          "Maro",
+          "Vimazi",
+          "Napdetect",
+          "Fidgrit",
+          "Beu",
+          "Carbuddy"
+        ],
+        "h4": [],
+        "h5": [
+          "The Baker India app provides a unique chance to directly engage with seasoned chefs, offering top-notch kitchen practices and recipes. Serving as a B2B platform, it facilitates connections with vendors from General Mills.",
+          "Cultsport play is created with the concept that playing games with people of different ages and backgrounds will drive people to be active.",
+          "Voilo is a fully intergrated reward platform that enables high street businesses to attract, retain and drive customer footfall by making them visible to millions of nearby customers.",
+          "With the new cultsport app, you can take advantage of live sessions, a top-notch gaming experience, and HealthCoins to make your fitness journey more enjoyable and motivating.",
+          "Optifo is a one-stop shop for all of your automobile photo editing requirements. It is a robust application that enables you to take easy and clean images of your cars by following helpful suggestions.",
+          "CampsEZ is an online platform to allow quick and easy registration for camp activities and programs. Making it easier for parents and families everywhere.",
+          "Experience advanced augmented reality through realistic animated and 3D objects in the real world. It combines AR & ML and enables users to scan and explore the popular tied-up products and plays with their latest videos and objects.",
+          "Tread Map is a one stop, comprehensive, recreation mapping app for all trail users, all seasons. Informed by land managers and local enthusiasts, it offers up-to-date recreation maps, custom layers, trail conditions, current safety information, and community events.",
+          "Zeppelin One is our end-to-end business intelligence solution powered by artificial intelligence. It gathers intelligence from your video cameras and turns it into visualized dashboards.",
+          "The Professional Beauty Group has have been serving the industry for over 30 years and has offices in Dubai, Dublin, Johannesburg, London & Mumbai.",
+          "Maro is a parent\u2019s companion for the hardest parts of growing up. Learn how to navigate tough growing-up conversations around mental health, empathy, puberty & diversity with your k-8th grade child as they grow.",
+          "Pioneering innovation in the fitness industry, Vimazi has everything you need to kickstart your fitness journey. Explore the plans & start off right and finish strong whatever your level, whatever your goal.",
+          "NapDetect\u2019s AI algorithms continuously analyze the person\u2019s facial movements and head position by processing images from the front-facing camera of the device in real-time.",
+          "A comprehensive sports management platform to allow sports professionals with the latest technology advancements. A perfect fit to use by\u2014 Players, Teams, Coaches, and Sports Events Organizers.",
+          "Choose from the professional hairdressers by going through their personalized portfolios by using Beu. You just don\u2019t need to call anyone, you can simply reschedule with a tap.",
+          "It empowers custom car lovers to flaunt their car among a big car-loving community for better appreciation and paves the way for a discussion that includes suggestions and advice among that community."
+        ],
+        "h6": []
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 206 295 9310",
+        "+44 776 695 0547",
+        "+61 0401954097",
+        "+61401954097"
+      ],
+      "addresses": [
+        "B-4, 2nd Floor, Sector 63",
+        "PO Box 28922, Seattle"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "https://mobcoder.com/contact/"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": true,
+      "page_summary": {
+        "title": "Our Product Stories That Make Us Stand Out",
+        "description": "Discover the essence of innovation with Mobcoder through our product stories. Uncover the journey of groundbreaking solutions, exceptional creativity, and technological brilliance that define our commitment to delivering excellence in every project.",
+        "h1": [
+          "Projects That Make Us Stand Out"
+        ],
+        "paragraphs": [
+          "\u00a9 2014-2026 Mobcoder\u2122 | Privacy Policy | Terms of Use"
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "",
+          "+61 0401954097",
+          "+44 776 695 0547",
+          "+1 206 295 9310",
+          "+61401954097"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "Victoria",
+          "Noida",
+          "WA",
+          "B-4, 2nd Floor, Sector 63",
+          "3 Yaralla Rd",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Uttar Pradesh",
+          "United States",
+          "US",
+          "Bentleigh East"
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    },
+    {
+      "url": "https://mobcoder.com/services",
+      "title": "App Development Services | Web Development Services",
+      "meta_description": "Our app development services and web development services cater to all your digital needs. We create exceptional solutions to enhance your online presence. Elevate your projects with us today.",
+      "headings": {
+        "h1": [
+          "Achieve Goals Through Exceptional Digital Design"
+        ],
+        "h2": [
+          "Services we Offer",
+          "UI Design",
+          "User Research & Strategy",
+          "User Personas",
+          "User Stories and Flows",
+          "Wireframes and Prototyping",
+          "User Experience Design",
+          "Custom Web Application Design & Development",
+          "CMS Development",
+          "Enterprise Web Development",
+          "React Native",
+          "Flutter",
+          "Android",
+          "iOS",
+          "IoT Application Development",
+          "IoT Consulting",
+          "IoT Engineering",
+          "IoT Testing",
+          "Machine Learning",
+          "Natural Language Processing",
+          "Business Intelligence",
+          "Sentiment Analysis",
+          "Voice",
+          "AR Integration to E-commerce",
+          "AR Game App Development",
+          "Location-based AR",
+          "Recognition-based AR",
+          "Our Custom Software Development Expertise",
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h3": [],
+        "h4": [
+          "UI/UX",
+          "Web",
+          "Cross-Platform",
+          "Mobile",
+          "IoT",
+          "AI/ML",
+          "Voice",
+          "AR",
+          "HealthCare",
+          "Travel & Tourism",
+          "Banking & Finance",
+          "Gaming",
+          "Fitness & Sports",
+          "Retail & Ecommerce",
+          "Media & Entertainment",
+          "Education & E-learning"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 206 295 9310",
+        "+44 776 695 0547",
+        "+61 0401954097",
+        "+61401954097"
+      ],
+      "addresses": [
+        "B-4, 2nd Floor, Sector 63",
+        "PO Box 28922, Seattle"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "https://mobcoder.com/contact/"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "App Development Services | Web Development Services",
+        "description": "Our app development services and web development services cater to all your digital needs. We create exceptional solutions to enhance your online presence. Elevate your projects with us today.",
+        "h1": [
+          "Achieve Goals Through Exceptional Digital Design"
+        ],
+        "paragraphs": [
+          "From startups to enterprises, products to service companies, Mobcoder\u2122 caters to all app development requirements in the same manner.",
+          "Our user-centric UX design approach gauges user attention by improving usability and accessibility and increasing interaction with the product.",
+          "Design decisions based on the needs and mindset of the targeted users. To identify their interest, our analysis team understand potential users, competitors' strategy, and market trends."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "",
+          "+61 0401954097",
+          "+44 776 695 0547",
+          "+1 206 295 9310",
+          "+61401954097"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "Victoria",
+          "Noida",
+          "WA",
+          "B-4, 2nd Floor, Sector 63",
+          "3 Yaralla Rd",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Uttar Pradesh",
+          "United States",
+          "US",
+          "Bentleigh East"
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    },
+    {
+      "url": "https://mobcoder.com/ui-ux-design",
+      "title": "UI/UX Design Services | UI/UX Design Company",
+      "meta_description": "Mobcoder is a top UI/UX design company offering expert UI/UX design services that create intuitive, user-friendly, and visually stunning digital experiences.",
+      "headings": {
+        "h1": [
+          "Creating efficiencies through Design and Technology"
+        ],
+        "h2": [
+          "Our Design Methodology",
+          "UX Design",
+          "User Research and Strategy",
+          "User Personas",
+          "User Stories and Flows",
+          "Wireframes and Prototyping",
+          "User Experience Design",
+          "Why Brands Choose Us for UI/UX Design Services",
+          "Our Expertise",
+          "Tools :",
+          "Technologies :",
+          "Our Work",
+          "Frequently Asked Questions",
+          "Related Blogs",
+          "Services",
+          "Technologies",
+          "Staff Augmentation",
+          "Product Stories"
+        ],
+        "h3": [],
+        "h4": [
+          "UX Design",
+          "User Research and Strategy",
+          "User Personas",
+          "User Stories and Flows",
+          "Wireframes and Prototyping",
+          "User Experience Design",
+          "Customer Satisfaction",
+          "Agile Procedure",
+          "Experienced Teams",
+          "Integrity & Transparency",
+          "Flexible Engagement Models"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [
+        "sales@mobcoder.com"
+      ],
+      "phone_numbers": [
+        "+1 206 295 9310",
+        "+44 776 695 0547",
+        "+61 0401954097",
+        "+61401954097"
+      ],
+      "addresses": [
+        "B-4, 2nd Floor, Sector 63",
+        "PO Box 28922, Seattle"
+      ],
+      "business_hours": [],
+      "social_links": {
+        "Instagram": "https://www.instagram.com/mobcoderinc/",
+        "Facebook": "https://www.facebook.com/mobcoderinc",
+        "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+        "Twitter": "https://twitter.com/mobcoderinc"
+      },
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "https://mobcoder.com/contact/"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Let's Talk",
+          "href": "https://mobcoder.com/contact"
+        },
+        {
+          "text": "Hire Shopify Developers",
+          "href": "https://mobcoder.com/hire-shopify-developers"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "UI/UX Design Services | UI/UX Design Company",
+        "description": "Mobcoder is a top UI/UX design company offering expert UI/UX design services that create intuitive, user-friendly, and visually stunning digital experiences.",
+        "h1": [
+          "Creating efficiencies through Design and Technology"
+        ],
+        "paragraphs": [
+          "As a top UI/UX design company, our design process creates user-centric solutions that satiate our customers and make interaction seamless & engaging.",
+          "Our user-centric UX design approach gauges user attention by improving usability and accessibility and increasing interaction with the product.",
+          "Design decision based on the needs and mindset of the targeted users. To identify their interest ,our analysis team understands potential users, competitors' strategy, and market trends."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [
+          "",
+          "+61 0401954097",
+          "+44 776 695 0547",
+          "+1 206 295 9310",
+          "+61401954097"
+        ],
+        "addresses": [
+          "PO Box 28922",
+          "Washington",
+          "Victoria",
+          "Noida",
+          "WA",
+          "B-4, 2nd Floor, Sector 63",
+          "3 Yaralla Rd",
+          "Seattle,",
+          "PO Box 28922, Seattle",
+          "Uttar Pradesh",
+          "United States",
+          "US",
+          "Bentleigh East"
+        ],
+        "geo": [
+          "latitude: 47.6062095",
+          "longitude: -122.3320708"
+        ]
+      }
+    }
+  ],
+  "final_extracted_data": {
+    "emails": [
+      "hr@mobcoder.com",
+      "sales@mobcoder.com"
+    ],
+    "phone_numbers": [
+      "+1 (306) 716-9910",
+      "+1 206 295 9310",
+      "+1 206 745 2299",
+      "+1 306 850 8510",
+      "+13067169910",
+      "+44 776 695 0547",
+      "+61 0401954097",
+      "+61401954097",
+      "+91 (8750) 111-200",
+      "+918750111200",
+      "+971 (52) 550-1609",
+      "+971525501609"
+    ],
+    "addresses": [
+      "75 Arlington St Boston, MA 02116",
+      "Australia 3 Yaralla Rd, Bentleigh East, VIC, 3165 sales@mobcoder.com",
+      "B-4, 2nd Floor, Sector 63",
+      "Dubai Level 1, Avenue Gate, South Zone, DIFC, Dubai, UAE sales@mobcoder.com",
+      "India USA Canada UAE KSA UK Australia",
+      "London The Long Barn Down Farm Cobham Park Road Surrey, Cobham KT11 3NE sales@mobcoder.com",
+      "Noida B-4/5, 2nd Floor Sector 63, Noida 201301 sales@mobcoder.com",
+      "PO Box 28922, Seattle",
+      "Riyadh Level 29, Tower B, Olaya Towers, Riyadh-12213, Saudi Arabia/p> sales@mobcoder.com",
+      "Seattle 11245 35th Avenue SW Boston 75 Arlington St Boston, MA 02116 sales@mobcoder.com",
+      "The Long Barn, Down Farm, CobhamPark Road, Surrey",
+      "Vancouver Suite 300 - 3665 Kingsway Vancouver, BC V5R 5W2 sales@mobcoder.com"
+    ],
+    "business_hours": [],
+    "geo_coordinates": [],
+    "conversion_actions": [
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "CONTACT US",
+        "href": "https://mobcoder.com/contact/"
+      },
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "CONTACT US",
+        "href": "https://mobcoder.com/contact/"
+      },
+      {
+        "text": "Let's Talk",
+        "href": "https://mobcoder.com/contact"
+      },
+      {
+        "text": "Let's Talk",
+        "href": "https://mobcoder.com/contact"
+      },
+      {
+        "text": "LET\u2019S TALK",
+        "href": "https://mobcoder.com/contact"
+      },
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "Get A Quote",
+        "href": "https://mobcoder.com/contact"
+      },
+      {
+        "text": "Get in touch",
+        "href": "https://mobcoder.com/contact"
+      },
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "Get A Quote",
+        "href": "https://mobcoder.com/contact"
+      },
+      {
+        "text": "Get in touch",
+        "href": "https://mobcoder.com/contact"
+      },
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "CONTACT US",
+        "href": "https://mobcoder.com/contact/"
+      },
+      {
+        "text": "LET'S DISCUSS",
+        "href": "https://mobcoder.com/contact"
+      },
+      {
+        "text": "LET'S TALK",
+        "href": "https://mobcoder.com/contact"
+      },
+      {
+        "text": "LET'S TALK",
+        "href": "https://mobcoder.com/contact"
+      },
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "Hire Shopify Developers",
+        "href": "https://mobcoder.com/hire-shopify-developers"
+      },
+      {
+        "text": "Get A Quote",
+        "href": "https://mobcoder.com/contact"
+      }
+    ],
+    "social_links": {
+      "Instagram": "https://www.instagram.com/mobcoderinc/",
+      "Facebook": "https://www.facebook.com/mobcoderinc",
+      "LinkedIn": "https://www.linkedin.com/company/mobcoder-llc",
+      "Twitter": "https://twitter.com/mobcoderinc"
+    },
+    "tech_stack": [
+      "Google Analytics (GA4)",
+      "Google Tag Manager (GTM)"
+    ]
+  },
+  "analysis_basis": {
+    "seo": {
+      "score": 100,
+      "title": "Top Mobile, Web & AI App Development Company | Mobcoder",
+      "title_length": 55,
+      "meta_description": "Mobcoder is a leading mobile, web app, and AI development company delivering scalable, innovative digital solutions for startups and enterprises worldwide.",
+      "meta_length": 155,
+      "has_canonical": true,
+      "h1_count": 1,
+      "h2_count": 15,
+      "h3_count": 30,
+      "total_images": 290,
+      "missing_alt_images": 1,
+      "alt_text_coverage_pct": 99.6551724137931,
+      "top_keywords": [
+        {
+          "keyword": "development",
+          "count": 53,
+          "density_pct": 2.6368159203980097
+        },
+        {
+          "keyword": "hire",
+          "count": 51,
+          "density_pct": 2.5373134328358207
+        },
+        {
+          "keyword": "app",
+          "count": 50,
+          "density_pct": 2.4875621890547266
+        },
+        {
+          "keyword": "developers",
+          "count": 41,
+          "density_pct": 2.0398009950248754
+        },
+        {
+          "keyword": "solutions",
+          "count": 26,
+          "density_pct": 1.2935323383084576
+        }
+      ],
+      "readability_score": 30.778244682661835,
+      "recommendations": []
+    },
+    "performance": {
+      "source": "Browser Timings",
+      "score_performance": 40,
+      "score_accessibility": 80,
+      "score_best_practices": 85,
+      "score_seo": 80,
+      "fcp_s": 3.595,
+      "lcp_s": 6.465,
+      "cls": 0.05,
+      "tbt_ms": 100,
+      "mobile_friendly": true,
+      "recommendations": [
+        "Optimize site assets to lower load time (currently 6.46s).",
+        "Optimize server response time and eliminate render-blocking elements."
+      ]
+    },
+    "cro": {
+      "score": 85,
+      "has_cta_above_fold": true,
+      "has_booking": true,
+      "has_chat": false,
+      "max_form_fields": 12,
+      "has_complex_forms": true,
+      "has_social_proof": true,
+      "has_trust_signals": true,
+      "has_sticky_cta": false,
+      "friction_points": [
+        "High-friction contact form detected with 12 fields.",
+        "No live chat or interactive lead capture widgets."
+      ],
+      "recommendations": [
+        "Simplify contact forms by reducing fields (currently max 12 fields, aim for 3-4 fields).",
+        "Install an interactive chat widget (e.g., HubSpot Chat, Drift) to capture visitors before they bounce."
+      ]
+    },
+    "hiring": {
+      "has_careers_page": false,
+      "careers_url": "",
+      "ats_detected": [],
+      "open_roles": [],
+      "role_count": 0,
+      "departments": {
+        "Engineering & Product": 0,
+        "Sales & Marketing": 0,
+        "Operations & Support": 0
+      },
+      "growth_focus": "Stable"
+    },
+    "social": {
+      "score": 100,
+      "platforms_detected": [
+        "Instagram",
+        "Facebook",
+        "LinkedIn",
+        "Twitter"
+      ],
+      "consistency_score": 20,
+      "recommendations": []
+    },
+    "reviews": {
+      "average_rating": 4.0,
+      "sentiment_label": "Neutral/No reviews found",
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "common_praise": [],
+      "common_complaints": [],
+      "reputation_score": 75,
+      "reviews": []
+    },
+    "scores": {
+      "overall": 78,
+      "opportunity_tier": "Low",
+      "lead_quality": "Cold Lead (Highly Optimized)",
+      "scores": {
+        "seo": 100,
+        "performance": 40,
+        "conversion": 85,
+        "trust": 75,
+        "social": 100,
+        "growth": 40
+      }
+    }
+  }
+}

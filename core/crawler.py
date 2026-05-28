@@ -153,7 +153,8 @@ class AsyncCrawler:
         if self.respect_robots:
             allowed = await check_robots_txt(start_url)
             if not allowed:
-                logger.warning(f"Robots.txt restricts crawling on {start_url}. Proceeding with caution.")
+                logger.warning(f"Robots.txt restricts crawling on {start_url}. Skipping crawl.")
+                return {}
                 
         visited = set()
         to_visit = [(start_url, 0)] # list of (url, depth)

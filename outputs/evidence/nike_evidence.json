@@ -1,0 +1,2465 @@
+{
+  "business_name": "Nike",
+  "website_url": "https://nike.com",
+  "crawler_settings": {
+    "max_depth": 2,
+    "max_pages_per_domain": 10,
+    "concurrency_limit": 3,
+    "timeout_ms": 15000,
+    "rate_limit_seconds": 1.0,
+    "max_retries": 3,
+    "backoff_factor": 2.0,
+    "respect_robots_txt": true
+  },
+  "pages": [
+    {
+      "url": "https://nike.com",
+      "title": "Nike. Just Do It. Nike IN",
+      "meta_description": "Nike - Official Online Store for Athletic Shoes, Clothing & Sports Gear. Shop the latest Nike products and enjoy free shipping.",
+      "headings": {
+        "h1": [
+          "Nike Official Online Store India"
+        ],
+        "h2": [
+          "Featured",
+          "Trending",
+          "Shop by Sport"
+        ],
+        "h3": [
+          "SAME WORKHORSE. NEW WINGS."
+        ],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [
+        "support@nike.com"
+      ],
+      "phone_numbers": [
+        "+1-800-806-6453"
+      ],
+      "addresses": [
+        "One Bowerman Drive"
+      ],
+      "business_hours": [],
+      "social_links": {},
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Air Force 1",
+          "href": "https://nike.com/air-force-1/c/94020?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C1%2Cair-force-1"
+        },
+        {
+          "text": "Air Jordan 1",
+          "href": "https://nike.com/air-jordan-1/c/94019?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C2%2Cair-jordan-1"
+        },
+        {
+          "text": "Air Max",
+          "href": "https://nike.com/air-max/c/94031?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C3%2Cair-max"
+        },
+        {
+          "text": "Dunk",
+          "href": "https://nike.com/dunk/c/94027?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C4%2Cdunk"
+        },
+        {
+          "text": "Pegasus",
+          "href": "https://nike.com/nike-pegasus-shoes/c/99874?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C5%2Cpegasus"
+        },
+        {
+          "text": "Vomero",
+          "href": "https://nike.com/nike-vomero-shoes/c/99877?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C6%2Cvomero"
+        },
+        {
+          "text": "Shop All Sale",
+          "href": "https://nike.com/shop-all-sale/c/99440?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cfeatured%2C3%2Cmarkdowns&f=category_filter%3D92563_&root=nav_3&ptype=listing%2Cmen%2Cfeatured%2C3%2Cshop-all-sale"
+        },
+        {
+          "text": "All Conditions Gear",
+          "href": "https://nike.com/all-condition-gear/c/94468?root=nav_3&ptype=listing%2Cmen%2Cfeatured%2C4%2Call-conditions-gear"
+        },
+        {
+          "text": "All Shoes",
+          "href": "https://nike.com/men/men-s-shoes/c/92564?root=nav_3&ptype=listing%2Cmen%2Cshoes%2C1%2Call-shoes"
+        },
+        {
+          "text": "All Clothing",
+          "href": "https://nike.com/men/men-clothing/c/92567?root=nav_3&ptype=listing%2Cmen%2Cclothing%2C1%2Call-clothing"
+        },
+        {
+          "text": "Running",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078582_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C1%2Crunning"
+        },
+        {
+          "text": "Basketball",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078583_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C2%2Cbasketball"
+        },
+        {
+          "text": "Football",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078581_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C3%2Cfootball"
+        },
+        {
+          "text": "Golf",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078580_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C4%2Cgolf"
+        },
+        {
+          "text": "Tennis & Pickleball",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078577_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C5%2Ctennis-%26-pickleball"
+        },
+        {
+          "text": "Gym & Training",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078578_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C6%2Cgym-%26-training"
+        },
+        {
+          "text": "Yoga",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3079815_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C7%2Cyoga"
+        },
+        {
+          "text": "Skateboarding",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078574_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C8%2Cskateboarding"
+        },
+        {
+          "text": "All Accessories & Equipment",
+          "href": "https://nike.com/men/accessories-equipments/c/92568?root=nav_3&ptype=listing%2Cmen%2Caccessories-%26-equipment%2C1%2Call-accessories-%26-equipment"
+        },
+        {
+          "text": "Shop All Sale",
+          "href": "https://nike.com/shop-all-sale/c/99440?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cfeatured%2C3%2Cmarkdowns&f=category_filter%3D92561_&root=nav_3&ptype=listing%2Cwomen%2Cfeatured%2C3%2Cshop-all-sale"
+        },
+        {
+          "text": "All Shoes",
+          "href": "https://nike.com/women/women-shoes/c/92562?root=nav_3&ptype=listing%2Cwomen%2Cshoes%2C1%2Call-shoes"
+        },
+        {
+          "text": "All Clothing",
+          "href": "https://nike.com/women/women-clothing/c/92747?root=nav_3&ptype=listing%2Cwomen%2Cclothing%2C1%2Call-clothing"
+        },
+        {
+          "text": "Yoga",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5196_%3Bnike_sports_type_filter%3D3079815_&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga"
+        },
+        {
+          "text": "Running",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5196_%3Bnike_sports_type_filter%3D3078582_&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C2%2Crunning"
+        },
+        {
+          "text": "Gym & Training",
+          "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5196_%3Bnike_sports_type_filter%3D3078578_&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C3%2Cgym-%26-training"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Nike. Just Do It. Nike IN",
+        "description": "Nike - Official Online Store for Athletic Shoes, Clothing & Sports Gear. Shop the latest Nike products and enjoy free shipping.",
+        "h1": [
+          "Nike Official Online Store India"
+        ],
+        "paragraphs": [
+          "Beginning of dialog window. Escape will cancel and close the window.",
+          "Get inside the mind\u2014and under the feet\u2014of Ethan Strand and Pegasus 42."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [
+          "support@nike.com"
+        ],
+        "phones": [
+          "+1-800-806-6453"
+        ],
+        "addresses": [
+          "USA",
+          "Beaverton",
+          "Oregon",
+          "One Bowerman Drive"
+        ],
+        "geo": []
+      }
+    },
+    {
+      "url": "https://nike.com/nike_store/c/2",
+      "title": "Page not found. Nike.com",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "We think you are in India. Update your location?"
+        ],
+        "h2": [
+          "Africa",
+          "Americas",
+          "Asia Pacific",
+          "Europe",
+          "Middle East"
+        ],
+        "h3": [],
+        "h4": [
+          "Egypt",
+          "Morocco",
+          "Maroc",
+          "South Africa",
+          "Argentina",
+          "Brasil",
+          "Canada",
+          "Canada",
+          "Chile",
+          "Colombia",
+          "M\u00e9xico",
+          "Peru",
+          "Puerto Rico",
+          "United States",
+          "Estados Unidos",
+          "Uruguay",
+          "Latin America",
+          "Australia",
+          "\u4e2d\u56fd\u5927\u9646",
+          "Hong Kong",
+          "\u9999\u6e2f",
+          "India",
+          "Indonesia",
+          "Japan",
+          "\u65e5\u672c",
+          "\ub300\ud55c\ubbfc\uad6d",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Singapore",
+          "\u53f0\u7063",
+          "\u0e44\u0e17\u0e22",
+          "Vietnam",
+          "\u00d6sterreich",
+          "Austria",
+          "Belgien",
+          "Belgium",
+          "Belgique",
+          "Belgi\u00eb",
+          "Bulgaria",
+          "Croatia",
+          "\u010cesk\u00e1 republika",
+          "Czech Republic",
+          "Danmark",
+          "Denmark",
+          "Finland",
+          "France",
+          "Deutschland",
+          "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+          "Hungary",
+          "Magyarorsz\u00e1g",
+          "Ireland",
+          "Israel",
+          "Italia",
+          "Luxemburg",
+          "Luxembourg",
+          "Luxembourg",
+          "Netherlands",
+          "Nederland",
+          "Norway",
+          "Norge",
+          "Polska",
+          "Portugal",
+          "Portugal",
+          "Romania",
+          "\u0420\u043e\u0441\u0441\u0438\u044f",
+          "Slovakia",
+          "Slovenia",
+          "Espanya",
+          "Espa\u00f1a",
+          "Sweden",
+          "Sverige",
+          "Schweiz",
+          "Switzerland",
+          "Suisse",
+          "Svizzera",
+          "T\u00fcrkiye",
+          "United Kingdom",
+          "Saudi Arabia",
+          "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+          "United Arab Emirates",
+          "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+          "Qatar",
+          "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+          "Kuwait",
+          "\u0627\u0644\u0643\u0648\u064a\u062a"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [],
+      "phone_numbers": [],
+      "addresses": [],
+      "business_hours": [],
+      "social_links": {},
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/orders/details/"
+        },
+        {
+          "text": "Order Cancellation",
+          "href": "https://www.nike.com/help/a/change-cancel-order"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/help/#contact"
+        },
+        {
+          "text": "Summer Shop",
+          "href": "https://www.nike.com/w/mens-summer-essentials-6pei9znik1"
+        },
+        {
+          "text": "Summer Shop",
+          "href": "https://www.nike.com/w/womens-summer-essentials-5e1x6z6pei9"
+        },
+        {
+          "text": "Shop by Color",
+          "href": "https://www.nike.com/w/womens-matching-sets-clothing-2lukpz5e1x6z6ymx6"
+        },
+        {
+          "text": "Crimson",
+          "href": "https://www.nike.com/w/womens-color-shop-red-2b1drz5e1x6"
+        },
+        {
+          "text": "Dark Neutrals",
+          "href": "https://www.nike.com/w/womens-color-shop-brown-4elb3z5e1x6"
+        },
+        {
+          "text": "Light Magenta",
+          "href": "https://www.nike.com/w/womens-color-shop-fierce-pinks-4x3uaz5e1x6"
+        },
+        {
+          "text": "Orange Pulse",
+          "href": "https://www.nike.com/w/womens-color-shop-oranges-37a5jz5e1x6"
+        },
+        {
+          "text": "Steam Green",
+          "href": "https://www.nike.com/w/womens-color-shop-teals-5e1x6za1fx0"
+        },
+        {
+          "text": "University Blue",
+          "href": "https://www.nike.com/w/womens-color-shop-blues-5e1x6z7wk8r"
+        },
+        {
+          "text": "Warm Neutrals",
+          "href": "https://www.nike.com/w/womens-color-shop-new-neutrals-5e1x6z98ed2"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/mens-jordan-37eefznik1"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/womens-jordan-37eefz5e1x6"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/kids-jordan-37eefzv4dh"
+        },
+        {
+          "text": "Shop by Color",
+          "href": "https://www.nike.com/w/nikeskims-b2asd"
+        },
+        {
+          "text": "Shop by Material",
+          "href": "https://www.nike.com/w/nikeskims-b2asd"
+        },
+        {
+          "text": "NikeSKIMS Lookbook",
+          "href": "https://www.nike.com/nikeskims-lookbook"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/mens-memorial-day-sale-aq6ukznik1"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/womens-memorial-day-sale-5e1x6zaq6uk"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/kids-memorial-day-sale-aq6ukzv4dh"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/memorial-day-sale-jordan-37eefzaq6uk"
+        },
+        {
+          "text": "Shop New Arrivals",
+          "href": "https://www.nike.com/w/new-3n82y"
+        },
+        {
+          "text": "Members: Free Shipping on Orders $50+",
+          "href": "https://www.nike.com/register"
+        }
+      ],
+      "forms": [
+        {
+          "input_count": 1,
+          "method": "get",
+          "action": "",
+          "fields": [
+            "Search Products"
+          ]
+        }
+      ],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Page not found. Nike.com",
+        "description": "",
+        "h1": [
+          "We think you are in India. Update your location?"
+        ],
+        "paragraphs": []
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [],
+        "addresses": [
+          "Email Address"
+        ],
+        "geo": []
+      }
+    },
+    {
+      "url": "https://nike.com/dunk/c/94027",
+      "title": "Page not found. Nike.com",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "We think you are in India. Update your location?"
+        ],
+        "h2": [
+          "Africa",
+          "Americas",
+          "Asia Pacific",
+          "Europe",
+          "Middle East"
+        ],
+        "h3": [],
+        "h4": [
+          "Egypt",
+          "Morocco",
+          "Maroc",
+          "South Africa",
+          "Argentina",
+          "Brasil",
+          "Canada",
+          "Canada",
+          "Chile",
+          "Colombia",
+          "M\u00e9xico",
+          "Peru",
+          "Puerto Rico",
+          "United States",
+          "Estados Unidos",
+          "Uruguay",
+          "Latin America",
+          "Australia",
+          "\u4e2d\u56fd\u5927\u9646",
+          "Hong Kong",
+          "\u9999\u6e2f",
+          "India",
+          "Indonesia",
+          "Japan",
+          "\u65e5\u672c",
+          "\ub300\ud55c\ubbfc\uad6d",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Singapore",
+          "\u53f0\u7063",
+          "\u0e44\u0e17\u0e22",
+          "Vietnam",
+          "\u00d6sterreich",
+          "Austria",
+          "Belgien",
+          "Belgium",
+          "Belgique",
+          "Belgi\u00eb",
+          "Bulgaria",
+          "Croatia",
+          "\u010cesk\u00e1 republika",
+          "Czech Republic",
+          "Danmark",
+          "Denmark",
+          "Finland",
+          "France",
+          "Deutschland",
+          "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+          "Hungary",
+          "Magyarorsz\u00e1g",
+          "Ireland",
+          "Israel",
+          "Italia",
+          "Luxemburg",
+          "Luxembourg",
+          "Luxembourg",
+          "Netherlands",
+          "Nederland",
+          "Norway",
+          "Norge",
+          "Polska",
+          "Portugal",
+          "Portugal",
+          "Romania",
+          "\u0420\u043e\u0441\u0441\u0438\u044f",
+          "Slovakia",
+          "Slovenia",
+          "Espanya",
+          "Espa\u00f1a",
+          "Sweden",
+          "Sverige",
+          "Schweiz",
+          "Switzerland",
+          "Suisse",
+          "Svizzera",
+          "T\u00fcrkiye",
+          "United Kingdom",
+          "Saudi Arabia",
+          "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+          "United Arab Emirates",
+          "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+          "Qatar",
+          "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+          "Kuwait",
+          "\u0627\u0644\u0643\u0648\u064a\u062a"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [],
+      "phone_numbers": [],
+      "addresses": [],
+      "business_hours": [],
+      "social_links": {},
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/orders/details/"
+        },
+        {
+          "text": "Order Cancellation",
+          "href": "https://www.nike.com/help/a/change-cancel-order"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/help/#contact"
+        },
+        {
+          "text": "Summer Shop",
+          "href": "https://www.nike.com/w/mens-summer-essentials-6pei9znik1"
+        },
+        {
+          "text": "Summer Shop",
+          "href": "https://www.nike.com/w/womens-summer-essentials-5e1x6z6pei9"
+        },
+        {
+          "text": "Shop by Color",
+          "href": "https://www.nike.com/w/womens-matching-sets-clothing-2lukpz5e1x6z6ymx6"
+        },
+        {
+          "text": "Crimson",
+          "href": "https://www.nike.com/w/womens-color-shop-red-2b1drz5e1x6"
+        },
+        {
+          "text": "Dark Neutrals",
+          "href": "https://www.nike.com/w/womens-color-shop-brown-4elb3z5e1x6"
+        },
+        {
+          "text": "Light Magenta",
+          "href": "https://www.nike.com/w/womens-color-shop-fierce-pinks-4x3uaz5e1x6"
+        },
+        {
+          "text": "Orange Pulse",
+          "href": "https://www.nike.com/w/womens-color-shop-oranges-37a5jz5e1x6"
+        },
+        {
+          "text": "Steam Green",
+          "href": "https://www.nike.com/w/womens-color-shop-teals-5e1x6za1fx0"
+        },
+        {
+          "text": "University Blue",
+          "href": "https://www.nike.com/w/womens-color-shop-blues-5e1x6z7wk8r"
+        },
+        {
+          "text": "Warm Neutrals",
+          "href": "https://www.nike.com/w/womens-color-shop-new-neutrals-5e1x6z98ed2"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/mens-jordan-37eefznik1"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/womens-jordan-37eefz5e1x6"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/kids-jordan-37eefzv4dh"
+        },
+        {
+          "text": "Shop by Color",
+          "href": "https://www.nike.com/w/nikeskims-b2asd"
+        },
+        {
+          "text": "Shop by Material",
+          "href": "https://www.nike.com/w/nikeskims-b2asd"
+        },
+        {
+          "text": "NikeSKIMS Lookbook",
+          "href": "https://www.nike.com/nikeskims-lookbook"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/mens-memorial-day-sale-aq6ukznik1"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/womens-memorial-day-sale-5e1x6zaq6uk"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/kids-memorial-day-sale-aq6ukzv4dh"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/memorial-day-sale-jordan-37eefzaq6uk"
+        },
+        {
+          "text": "Shop New Arrivals",
+          "href": "https://www.nike.com/w/new-3n82y"
+        },
+        {
+          "text": "Members: Free Shipping on Orders $50+",
+          "href": "https://www.nike.com/register"
+        }
+      ],
+      "forms": [
+        {
+          "input_count": 1,
+          "method": "get",
+          "action": "",
+          "fields": [
+            "Search Products"
+          ]
+        }
+      ],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Page not found. Nike.com",
+        "description": "",
+        "h1": [
+          "We think you are in India. Update your location?"
+        ],
+        "paragraphs": []
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [],
+        "addresses": [
+          "Email Address"
+        ],
+        "geo": []
+      }
+    },
+    {
+      "url": "https://nike.com/help-center",
+      "title": "Page not found. Nike.com",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "We think you are in India. Update your location?"
+        ],
+        "h2": [
+          "Africa",
+          "Americas",
+          "Asia Pacific",
+          "Europe",
+          "Middle East"
+        ],
+        "h3": [],
+        "h4": [
+          "Egypt",
+          "Morocco",
+          "Maroc",
+          "South Africa",
+          "Argentina",
+          "Brasil",
+          "Canada",
+          "Canada",
+          "Chile",
+          "Colombia",
+          "M\u00e9xico",
+          "Peru",
+          "Puerto Rico",
+          "United States",
+          "Estados Unidos",
+          "Uruguay",
+          "Latin America",
+          "Australia",
+          "\u4e2d\u56fd\u5927\u9646",
+          "Hong Kong",
+          "\u9999\u6e2f",
+          "India",
+          "Indonesia",
+          "Japan",
+          "\u65e5\u672c",
+          "\ub300\ud55c\ubbfc\uad6d",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Singapore",
+          "\u53f0\u7063",
+          "\u0e44\u0e17\u0e22",
+          "Vietnam",
+          "\u00d6sterreich",
+          "Austria",
+          "Belgien",
+          "Belgium",
+          "Belgique",
+          "Belgi\u00eb",
+          "Bulgaria",
+          "Croatia",
+          "\u010cesk\u00e1 republika",
+          "Czech Republic",
+          "Danmark",
+          "Denmark",
+          "Finland",
+          "France",
+          "Deutschland",
+          "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+          "Hungary",
+          "Magyarorsz\u00e1g",
+          "Ireland",
+          "Israel",
+          "Italia",
+          "Luxemburg",
+          "Luxembourg",
+          "Luxembourg",
+          "Netherlands",
+          "Nederland",
+          "Norway",
+          "Norge",
+          "Polska",
+          "Portugal",
+          "Portugal",
+          "Romania",
+          "\u0420\u043e\u0441\u0441\u0438\u044f",
+          "Slovakia",
+          "Slovenia",
+          "Espanya",
+          "Espa\u00f1a",
+          "Sweden",
+          "Sverige",
+          "Schweiz",
+          "Switzerland",
+          "Suisse",
+          "Svizzera",
+          "T\u00fcrkiye",
+          "United Kingdom",
+          "Saudi Arabia",
+          "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+          "United Arab Emirates",
+          "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+          "Qatar",
+          "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+          "Kuwait",
+          "\u0627\u0644\u0643\u0648\u064a\u062a"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [],
+      "phone_numbers": [],
+      "addresses": [
+        "b19a7baa-294d-466a-bd06-ecee181dbf78"
+      ],
+      "business_hours": [],
+      "social_links": {},
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/orders/details/"
+        },
+        {
+          "text": "Order Cancellation",
+          "href": "https://www.nike.com/help/a/change-cancel-order"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/help/#contact"
+        },
+        {
+          "text": "Summer Shop",
+          "href": "https://www.nike.com/w/mens-summer-essentials-6pei9znik1"
+        },
+        {
+          "text": "Summer Shop",
+          "href": "https://www.nike.com/w/womens-summer-essentials-5e1x6z6pei9"
+        },
+        {
+          "text": "Shop by Color",
+          "href": "https://www.nike.com/w/womens-matching-sets-clothing-2lukpz5e1x6z6ymx6"
+        },
+        {
+          "text": "Crimson",
+          "href": "https://www.nike.com/w/womens-color-shop-red-2b1drz5e1x6"
+        },
+        {
+          "text": "Dark Neutrals",
+          "href": "https://www.nike.com/w/womens-color-shop-brown-4elb3z5e1x6"
+        },
+        {
+          "text": "Light Magenta",
+          "href": "https://www.nike.com/w/womens-color-shop-fierce-pinks-4x3uaz5e1x6"
+        },
+        {
+          "text": "Orange Pulse",
+          "href": "https://www.nike.com/w/womens-color-shop-oranges-37a5jz5e1x6"
+        },
+        {
+          "text": "Steam Green",
+          "href": "https://www.nike.com/w/womens-color-shop-teals-5e1x6za1fx0"
+        },
+        {
+          "text": "University Blue",
+          "href": "https://www.nike.com/w/womens-color-shop-blues-5e1x6z7wk8r"
+        },
+        {
+          "text": "Warm Neutrals",
+          "href": "https://www.nike.com/w/womens-color-shop-new-neutrals-5e1x6z98ed2"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/mens-jordan-37eefznik1"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/womens-jordan-37eefz5e1x6"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/kids-jordan-37eefzv4dh"
+        },
+        {
+          "text": "Shop by Color",
+          "href": "https://www.nike.com/w/nikeskims-b2asd"
+        },
+        {
+          "text": "Shop by Material",
+          "href": "https://www.nike.com/w/nikeskims-b2asd"
+        },
+        {
+          "text": "NikeSKIMS Lookbook",
+          "href": "https://www.nike.com/nikeskims-lookbook"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/mens-memorial-day-sale-aq6ukznik1"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/womens-memorial-day-sale-5e1x6zaq6uk"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/kids-memorial-day-sale-aq6ukzv4dh"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/memorial-day-sale-jordan-37eefzaq6uk"
+        },
+        {
+          "text": "Shop New Arrivals",
+          "href": "https://www.nike.com/w/new-3n82y"
+        },
+        {
+          "text": "Members: Free Shipping on Orders $50+",
+          "href": "https://www.nike.com/register"
+        }
+      ],
+      "forms": [
+        {
+          "input_count": 1,
+          "method": "get",
+          "action": "",
+          "fields": [
+            "Search Products"
+          ]
+        }
+      ],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Page not found. Nike.com",
+        "description": "",
+        "h1": [
+          "We think you are in India. Update your location?"
+        ],
+        "paragraphs": []
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [],
+        "addresses": [
+          "Email Address"
+        ],
+        "geo": []
+      }
+    },
+    {
+      "url": "https://www.nike.com/au",
+      "title": "Nike. Just Do It. Nike AU",
+      "meta_description": "Nike delivers innovative products, experiences and services to inspire athletes. Member free shipping on orders $80+ & free returns*. *T&Cs apply.",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "SPOTLIGHT",
+          "SPOTLIGHT",
+          "Resources",
+          "Company",
+          "Franchise",
+          "Africa",
+          "Americas",
+          "Asia Pacific",
+          "Europe",
+          "Middle East"
+        ],
+        "h3": [
+          "NIKESKIMS",
+          "CHOOSE YOUR FAST",
+          "NIKESKIMS",
+          "CHOOSE YOUR FAST",
+          "Air Max 90 \u2018Mercurial\u2019",
+          "Australia\u2019s 2026 Collection",
+          "Air Max 90 \u2018Mercurial\u2019",
+          "AJ1 Low 'Banned'",
+          "Train Right",
+          "SAME WORKHORSE. NEW WINGS.",
+          "Train Right",
+          "SAME WORKHORSE. NEW WINGS.",
+          "TRAIN RIGHT",
+          "SAME WORKHORSE. NEW WINGS.",
+          "TRAIN RIGHT",
+          "SAME WORKHORSE. NEW WINGS."
+        ],
+        "h4": [
+          "Shoes",
+          "Clothing",
+          "Kids",
+          "Icons",
+          "Egypt",
+          "Morocco",
+          "Maroc",
+          "South Africa",
+          "Argentina",
+          "Brasil",
+          "Canada",
+          "Canada",
+          "Chile",
+          "Colombia",
+          "M\u00e9xico",
+          "Peru",
+          "Puerto Rico",
+          "United States",
+          "Estados Unidos",
+          "Uruguay",
+          "Latin America",
+          "Australia",
+          "\u4e2d\u56fd\u5927\u9646",
+          "Hong Kong",
+          "\u9999\u6e2f",
+          "India",
+          "Indonesia",
+          "Japan",
+          "\u65e5\u672c",
+          "\ub300\ud55c\ubbfc\uad6d",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Singapore",
+          "\u53f0\u7063",
+          "\u0e44\u0e17\u0e22",
+          "Vietnam",
+          "\u00d6sterreich",
+          "Austria",
+          "Belgien",
+          "Belgium",
+          "Belgique",
+          "Belgi\u00eb",
+          "Bulgaria",
+          "Croatia",
+          "\u010cesk\u00e1 republika",
+          "Czech Republic",
+          "Danmark",
+          "Denmark",
+          "Finland",
+          "France",
+          "Deutschland",
+          "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+          "Hungary",
+          "Magyarorsz\u00e1g",
+          "Ireland",
+          "Israel",
+          "Italia",
+          "Luxemburg",
+          "Luxembourg",
+          "Luxembourg",
+          "Netherlands",
+          "Nederland",
+          "Norway",
+          "Norge",
+          "Polska",
+          "Portugal",
+          "Portugal",
+          "Romania",
+          "\u0420\u043e\u0441\u0441\u0438\u044f",
+          "Slovakia",
+          "Slovenia",
+          "Espanya",
+          "Espa\u00f1a",
+          "Sweden",
+          "Sverige",
+          "Schweiz",
+          "Switzerland",
+          "Suisse",
+          "Svizzera",
+          "T\u00fcrkiye",
+          "United Kingdom",
+          "Saudi Arabia",
+          "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+          "United Arab Emirates",
+          "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+          "Qatar",
+          "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+          "Kuwait",
+          "\u0627\u0644\u0643\u0648\u064a\u062a"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [],
+      "phone_numbers": [],
+      "addresses": [],
+      "business_hours": [],
+      "social_links": {},
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/au/orders/details/"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/au/help/#contact"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/au/w/mens-jordan-37eefznik1"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/au/w/womens-jordan-37eefz5e1x6"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/au/w/kids-jordan-37eefzv4dh"
+        },
+        {
+          "text": "Shop By Sport",
+          "href": "https://www.nike.com/au/w/jordan-performance-37eefz3k7dg"
+        },
+        {
+          "text": "Shop by Colour",
+          "href": "https://www.nike.com/au/nikeskims-lookbook"
+        },
+        {
+          "text": "Shop by Material",
+          "href": "https://www.nike.com/au/nikeskims-collection-guide"
+        },
+        {
+          "text": "NikeSKIMS Lookbook",
+          "href": "https://www.nike.com/au/nikeskims-lookbook"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/nikeskims-b2asd"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/nikeskims-b2asd"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/mad-90-pack-40e8w"
+        },
+        {
+          "text": "Shop All Federations",
+          "href": "https://www.nike.com/au/w/national-team-av9de"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/mad-90-pack-40e8w"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/jordan-1-aj85g"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/metcon-3yxqs"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/pegasus-running-shoes-37v7jz8nexhzy7ok"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/metcon-3yxqs"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/pegasus-running-shoes-37v7jz8nexhzy7ok"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/metcon-3yxqs"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/pegasus-running-shoes-37v7jz8nexhzy7ok"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/metcon-3yxqs"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/au/w/pegasus-running-shoes-37v7jz8nexhzy7ok"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/au/orders/details"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/au/help/#contact"
+        }
+      ],
+      "forms": [
+        {
+          "input_count": 1,
+          "method": "get",
+          "action": "",
+          "fields": [
+            "Search Products"
+          ]
+        }
+      ],
+      "has_testimonials": true,
+      "page_summary": {
+        "title": "Nike. Just Do It. Nike AU",
+        "description": "Nike delivers innovative products, experiences and services to inspire athletes. Member free shipping on orders $80+ & free returns*. *T&Cs apply.",
+        "h1": [],
+        "paragraphs": [
+          "Introducing Studio Stretch, the must-have material collection you have to feel to believe, plus feminine new colours, prints, and silhouettes.",
+          "Relentless acceleration with Superfly or untouchable agility with Vapor. Coming June 1st at 5pm.",
+          "Introducing Studio Stretch, the must-have material collection you have to feel to believe, plus feminine new colours, prints, and silhouettes."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [],
+        "addresses": [
+          "Email Address"
+        ],
+        "geo": []
+      }
+    },
+    {
+      "url": "https://www.nike.com/w",
+      "title": "Products. Nike.com",
+      "meta_description": "Find Products at Nike.com. Free delivery and returns.",
+      "headings": {
+        "h1": [
+          "All Products"
+        ],
+        "h2": [
+          "Africa",
+          "Americas",
+          "Asia Pacific",
+          "Europe",
+          "Middle East"
+        ],
+        "h3": [],
+        "h4": [
+          "Egypt",
+          "Morocco",
+          "Maroc",
+          "South Africa",
+          "Argentina",
+          "Brasil",
+          "Canada",
+          "Canada",
+          "Chile",
+          "Colombia",
+          "M\u00e9xico",
+          "Peru",
+          "Puerto Rico",
+          "United States",
+          "Estados Unidos",
+          "Uruguay",
+          "Latin America",
+          "Australia",
+          "\u4e2d\u56fd\u5927\u9646",
+          "Hong Kong",
+          "\u9999\u6e2f",
+          "India",
+          "Indonesia",
+          "Japan",
+          "\u65e5\u672c",
+          "\ub300\ud55c\ubbfc\uad6d",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Singapore",
+          "\u53f0\u7063",
+          "\u0e44\u0e17\u0e22",
+          "Vietnam",
+          "\u00d6sterreich",
+          "Austria",
+          "Belgien",
+          "Belgium",
+          "Belgique",
+          "Belgi\u00eb",
+          "Bulgaria",
+          "Croatia",
+          "\u010cesk\u00e1 republika",
+          "Czech Republic",
+          "Danmark",
+          "Denmark",
+          "Finland",
+          "France",
+          "Deutschland",
+          "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+          "Hungary",
+          "Magyarorsz\u00e1g",
+          "Ireland",
+          "Israel",
+          "Italia",
+          "Luxemburg",
+          "Luxembourg",
+          "Luxembourg",
+          "Netherlands",
+          "Nederland",
+          "Norway",
+          "Norge",
+          "Polska",
+          "Portugal",
+          "Portugal",
+          "Romania",
+          "\u0420\u043e\u0441\u0441\u0438\u044f",
+          "Slovakia",
+          "Slovenia",
+          "Espanya",
+          "Espa\u00f1a",
+          "Sweden",
+          "Sverige",
+          "Schweiz",
+          "Switzerland",
+          "Suisse",
+          "Svizzera",
+          "T\u00fcrkiye",
+          "United Kingdom",
+          "Saudi Arabia",
+          "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+          "United Arab Emirates",
+          "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+          "Qatar",
+          "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+          "Kuwait",
+          "\u0627\u0644\u0643\u0648\u064a\u062a"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [],
+      "phone_numbers": [],
+      "addresses": [],
+      "business_hours": [],
+      "social_links": {},
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/orders/details/"
+        },
+        {
+          "text": "Order Cancellation",
+          "href": "https://www.nike.com/help/a/change-cancel-order"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/help/#contact"
+        },
+        {
+          "text": "Summer Shop",
+          "href": "https://www.nike.com/w/mens-summer-essentials-6pei9znik1"
+        },
+        {
+          "text": "Summer Shop",
+          "href": "https://www.nike.com/w/womens-summer-essentials-5e1x6z6pei9"
+        },
+        {
+          "text": "Shop by Color",
+          "href": "https://www.nike.com/w/womens-matching-sets-clothing-2lukpz5e1x6z6ymx6"
+        },
+        {
+          "text": "Crimson",
+          "href": "https://www.nike.com/w/womens-color-shop-red-2b1drz5e1x6"
+        },
+        {
+          "text": "Dark Neutrals",
+          "href": "https://www.nike.com/w/womens-color-shop-brown-4elb3z5e1x6"
+        },
+        {
+          "text": "Light Magenta",
+          "href": "https://www.nike.com/w/womens-color-shop-fierce-pinks-4x3uaz5e1x6"
+        },
+        {
+          "text": "Orange Pulse",
+          "href": "https://www.nike.com/w/womens-color-shop-oranges-37a5jz5e1x6"
+        },
+        {
+          "text": "Steam Green",
+          "href": "https://www.nike.com/w/womens-color-shop-teals-5e1x6za1fx0"
+        },
+        {
+          "text": "University Blue",
+          "href": "https://www.nike.com/w/womens-color-shop-blues-5e1x6z7wk8r"
+        },
+        {
+          "text": "Warm Neutrals",
+          "href": "https://www.nike.com/w/womens-color-shop-new-neutrals-5e1x6z98ed2"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/mens-jordan-37eefznik1"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/womens-jordan-37eefz5e1x6"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/kids-jordan-37eefzv4dh"
+        },
+        {
+          "text": "Shop by Color",
+          "href": "https://www.nike.com/w/nikeskims-b2asd"
+        },
+        {
+          "text": "Shop by Material",
+          "href": "https://www.nike.com/w/nikeskims-b2asd"
+        },
+        {
+          "text": "NikeSKIMS Lookbook",
+          "href": "https://www.nike.com/nikeskims-lookbook"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/mens-memorial-day-sale-aq6ukznik1"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/womens-memorial-day-sale-5e1x6zaq6uk"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/kids-memorial-day-sale-aq6ukzv4dh"
+        },
+        {
+          "text": "Shop All",
+          "href": "https://www.nike.com/w/memorial-day-sale-jordan-37eefzaq6uk"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/orders/details/"
+        },
+        {
+          "text": "Order Cancellation",
+          "href": "https://www.nike.com/help/a/change-cancel-order"
+        }
+      ],
+      "forms": [
+        {
+          "input_count": 1,
+          "method": "get",
+          "action": "",
+          "fields": [
+            "Search Products"
+          ]
+        }
+      ],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Products. Nike.com",
+        "description": "Find Products at Nike.com. Free delivery and returns.",
+        "h1": [
+          "All Products"
+        ],
+        "paragraphs": []
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [],
+        "addresses": [],
+        "geo": []
+      }
+    },
+    {
+      "url": "https://www.nike.com",
+      "title": "Nike. Just Do It. Nike IN",
+      "meta_description": "Nike - Official Online Store for Athletic Shoes, Clothing & Sports Gear. Shop the latest Nike products and enjoy free shipping.",
+      "headings": {
+        "h1": [
+          "Nike Official Online Store India"
+        ],
+        "h2": [
+          "Featured",
+          "Trending",
+          "Shop by Sport"
+        ],
+        "h3": [
+          "SAME WORKHORSE. NEW WINGS."
+        ],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [
+        "support@nike.com"
+      ],
+      "phone_numbers": [
+        "+1-800-806-6453"
+      ],
+      "addresses": [
+        "One Bowerman Drive"
+      ],
+      "business_hours": [],
+      "social_links": {},
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Air Force 1",
+          "href": "https://www.nike.com/air-force-1/c/94020?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C1%2Cair-force-1"
+        },
+        {
+          "text": "Air Jordan 1",
+          "href": "https://www.nike.com/air-jordan-1/c/94019?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C2%2Cair-jordan-1"
+        },
+        {
+          "text": "Air Max",
+          "href": "https://www.nike.com/air-max/c/94031?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C3%2Cair-max"
+        },
+        {
+          "text": "Dunk",
+          "href": "https://www.nike.com/dunk/c/94027?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C4%2Cdunk"
+        },
+        {
+          "text": "Pegasus",
+          "href": "https://www.nike.com/nike-pegasus-shoes/c/99874?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C5%2Cpegasus"
+        },
+        {
+          "text": "Vomero",
+          "href": "https://www.nike.com/nike-vomero-shoes/c/99877?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C6%2Cvomero"
+        },
+        {
+          "text": "Shop All Sale",
+          "href": "https://www.nike.com/shop-all-sale/c/99440?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cfeatured%2C3%2Cmarkdowns&f=category_filter%3D92563_&root=nav_3&ptype=listing%2Cmen%2Cfeatured%2C3%2Cshop-all-sale"
+        },
+        {
+          "text": "All Conditions Gear",
+          "href": "https://www.nike.com/all-condition-gear/c/94468?root=nav_3&ptype=listing%2Cmen%2Cfeatured%2C4%2Call-conditions-gear"
+        },
+        {
+          "text": "All Shoes",
+          "href": "https://www.nike.com/men/men-s-shoes/c/92564?root=nav_3&ptype=listing%2Cmen%2Cshoes%2C1%2Call-shoes"
+        },
+        {
+          "text": "All Clothing",
+          "href": "https://www.nike.com/men/men-clothing/c/92567?root=nav_3&ptype=listing%2Cmen%2Cclothing%2C1%2Call-clothing"
+        },
+        {
+          "text": "Running",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078582_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C1%2Crunning"
+        },
+        {
+          "text": "Basketball",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078583_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C2%2Cbasketball"
+        },
+        {
+          "text": "Football",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078581_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C3%2Cfootball"
+        },
+        {
+          "text": "Golf",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078580_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C4%2Cgolf"
+        },
+        {
+          "text": "Tennis & Pickleball",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078577_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C5%2Ctennis-%26-pickleball"
+        },
+        {
+          "text": "Gym & Training",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078578_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C6%2Cgym-%26-training"
+        },
+        {
+          "text": "Yoga",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3079815_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C7%2Cyoga"
+        },
+        {
+          "text": "Skateboarding",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078574_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C8%2Cskateboarding"
+        },
+        {
+          "text": "All Accessories & Equipment",
+          "href": "https://www.nike.com/men/accessories-equipments/c/92568?root=nav_3&ptype=listing%2Cmen%2Caccessories-%26-equipment%2C1%2Call-accessories-%26-equipment"
+        },
+        {
+          "text": "Shop All Sale",
+          "href": "https://www.nike.com/shop-all-sale/c/99440?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cfeatured%2C3%2Cmarkdowns&f=category_filter%3D92561_&root=nav_3&ptype=listing%2Cwomen%2Cfeatured%2C3%2Cshop-all-sale"
+        },
+        {
+          "text": "All Shoes",
+          "href": "https://www.nike.com/women/women-shoes/c/92562?root=nav_3&ptype=listing%2Cwomen%2Cshoes%2C1%2Call-shoes"
+        },
+        {
+          "text": "All Clothing",
+          "href": "https://www.nike.com/women/women-clothing/c/92747?root=nav_3&ptype=listing%2Cwomen%2Cclothing%2C1%2Call-clothing"
+        },
+        {
+          "text": "Yoga",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5196_%3Bnike_sports_type_filter%3D3079815_&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga"
+        },
+        {
+          "text": "Running",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5196_%3Bnike_sports_type_filter%3D3078582_&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C2%2Crunning"
+        },
+        {
+          "text": "Gym & Training",
+          "href": "https://www.nike.com/nike_store/c/2?f=gender_filter%3D5196_%3Bnike_sports_type_filter%3D3078578_&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C3%2Cgym-%26-training"
+        }
+      ],
+      "forms": [],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Nike. Just Do It. Nike IN",
+        "description": "Nike - Official Online Store for Athletic Shoes, Clothing & Sports Gear. Shop the latest Nike products and enjoy free shipping.",
+        "h1": [
+          "Nike Official Online Store India"
+        ],
+        "paragraphs": [
+          "Beginning of dialog window. Escape will cancel and close the window.",
+          "Get inside the mind\u2014and under the feet\u2014of Ethan Strand and Pegasus 42."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [
+          "support@nike.com"
+        ],
+        "phones": [
+          "+1-800-806-6453"
+        ],
+        "addresses": [
+          "USA",
+          "Beaverton",
+          "Oregon",
+          "One Bowerman Drive"
+        ],
+        "geo": []
+      }
+    },
+    {
+      "url": "https://www.nike.com/jp",
+      "title": "Nike. Just Do It. Nike.com (JP).\u30aa\u30f3\u30e9\u30a4\u30f3\u30b9\u30c8\u30a2 (\u901a\u8ca9\u30b5\u30a4\u30c8)",
+      "meta_description": "NIKE\u306e\u6700\u65b0\u60c5\u5831\u306e\u30c1\u30a7\u30c3\u30af\u304a\u3088\u3073\u65b0\u5546\u54c1\u306e\u8cfc\u5165\u306f\u30ca\u30a4\u30ad\u516c\u5f0f\u30aa\u30f3\u30e9\u30a4\u30f3\u30b9\u30c8\u30a2\u3067\u3069\u3046\u305e\u3002",
+      "headings": {
+        "h1": [
+          "\u30de\u30c3\u30c9 90 \u30d1\u30c3\u30af"
+        ],
+        "h2": [
+          "\u3054\u5229\u7528\u30ac\u30a4\u30c9",
+          "\u5404\u7a2e\u5272\u5f15",
+          "\u30d8\u30eb\u30d7",
+          "\u4f01\u696d\u60c5\u5831",
+          "Africa",
+          "Americas",
+          "Asia Pacific",
+          "Europe",
+          "Middle East"
+        ],
+        "h3": [
+          "\u30de\u30c3\u30c9 90 \u30d1\u30c3\u30af",
+          "\u30da\u30ac\u30b5\u30b942",
+          "NikeSKIMS Studio Stretch",
+          "\u30da\u30ac\u30b5\u30b942",
+          "NikeSKIMS Studio Stretch",
+          "\u590f\u3053\u305d\u30ef\u30f3\u30e9\u30f3\u30af\u4e0a\u306e\u30b9\u30bf\u30a4\u30eb\u306b\u3002",
+          "ACG \u30bc\u30ac\u30de \u30c8\u30ec\u30a4\u30eb",
+          "\u30a8\u30a2 \u30b8\u30e7\u30fc\u30c0\u30f3 1 \u30ec\u30c8\u30ed LOW OG \"Banned\"",
+          "\u590f\u3053\u305d\u30ef\u30f3\u30e9\u30f3\u30af\u4e0a\u306e\u30b9\u30bf\u30a4\u30eb\u306b\u3002",
+          "ACG \u30bc\u30ac\u30de \u30c8\u30ec\u30a4\u30eb",
+          "\u30a8\u30a2 \u30b8\u30e7\u30fc\u30c0\u30f3 1 \u30ec\u30c8\u30ed LOW OG \"Banned\""
+        ],
+        "h4": [
+          "\u30d4\u30c3\u30af\u30a2\u30c3\u30d7",
+          "\u30b7\u30e5\u30fc\u30ba\u30fb\u30b9\u30cb\u30fc\u30ab\u30fc",
+          "\u30a6\u30a7\u30a2\u30fb\u30a2\u30af\u30bb\u30b5\u30ea\u30fc",
+          "\u30b9\u30dd\u30fc\u30c4",
+          "\u30b5\u30f3\u30c0\u30eb\u7279\u96c6",
+          "Egypt",
+          "Morocco",
+          "Maroc",
+          "South Africa",
+          "Argentina",
+          "Brasil",
+          "Canada",
+          "Canada",
+          "Chile",
+          "Colombia",
+          "M\u00e9xico",
+          "Peru",
+          "Puerto Rico",
+          "United States",
+          "Estados Unidos",
+          "Uruguay",
+          "Latin America",
+          "Australia",
+          "\u4e2d\u56fd\u5927\u9646",
+          "Hong Kong",
+          "\u9999\u6e2f",
+          "India",
+          "Indonesia",
+          "Japan",
+          "\u65e5\u672c",
+          "\ub300\ud55c\ubbfc\uad6d",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Singapore",
+          "\u53f0\u7063",
+          "\u0e44\u0e17\u0e22",
+          "Vietnam",
+          "\u00d6sterreich",
+          "Austria",
+          "Belgien",
+          "Belgium",
+          "Belgique",
+          "Belgi\u00eb",
+          "Bulgaria",
+          "Croatia",
+          "\u010cesk\u00e1 republika",
+          "Czech Republic",
+          "Danmark",
+          "Denmark",
+          "Finland",
+          "France",
+          "Deutschland",
+          "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+          "Hungary",
+          "Magyarorsz\u00e1g",
+          "Ireland",
+          "Israel",
+          "Italia",
+          "Luxemburg",
+          "Luxembourg",
+          "Luxembourg",
+          "Netherlands",
+          "Nederland",
+          "Norway",
+          "Norge",
+          "Polska",
+          "Portugal",
+          "Portugal",
+          "Romania",
+          "\u0420\u043e\u0441\u0441\u0438\u044f",
+          "Slovakia",
+          "Slovenia",
+          "Espanya",
+          "Espa\u00f1a",
+          "Sweden",
+          "Sverige",
+          "Schweiz",
+          "Switzerland",
+          "Suisse",
+          "Svizzera",
+          "T\u00fcrkiye",
+          "United Kingdom",
+          "Saudi Arabia",
+          "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+          "United Arab Emirates",
+          "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+          "Qatar",
+          "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+          "Kuwait",
+          "\u0627\u0644\u0643\u0648\u064a\u062a"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [],
+      "phone_numbers": [],
+      "addresses": [],
+      "business_hours": [],
+      "social_links": {},
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "\u6ce8\u6587\u5c65\u6b74",
+          "href": "https://www.nike.com/jp/orders/details"
+        },
+        {
+          "text": "\u304a\u554f\u3044\u5408\u308f\u305b",
+          "href": "https://www.nike.com/jp/help/#contact"
+        },
+        {
+          "text": "NikeSKIMS \u30eb\u30c3\u30af\u30d6\u30c3\u30af",
+          "href": "https://www.nike.com/jp/nikeskims-lookbook"
+        },
+        {
+          "text": "\u6ce8\u6587\u5c65\u6b74",
+          "href": "https://www.nike.com/jp/orders/"
+        },
+        {
+          "text": "\u304a\u554f\u3044\u5408\u308f\u305b",
+          "href": "https://www.nike.com/jp/help#contact"
+        },
+        {
+          "text": "\u6ce8\u6587\u5c65\u6b74",
+          "href": "https://www.nike.com/jp/orders/"
+        },
+        {
+          "text": "\u304a\u554f\u3044\u5408\u308f\u305b",
+          "href": "https://www.nike.com/jp/help#contact"
+        }
+      ],
+      "forms": [
+        {
+          "input_count": 1,
+          "method": "get",
+          "action": "",
+          "fields": [
+            "\u5546\u54c1\u3092\u691c\u7d22"
+          ]
+        }
+      ],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Nike. Just Do It. Nike.com (JP).\u30aa\u30f3\u30e9\u30a4\u30f3\u30b9\u30c8\u30a2 (\u901a\u8ca9\u30b5\u30a4\u30c8)",
+        "description": "NIKE\u306e\u6700\u65b0\u60c5\u5831\u306e\u30c1\u30a7\u30c3\u30af\u304a\u3088\u3073\u65b0\u5546\u54c1\u306e\u8cfc\u5165\u306f\u30ca\u30a4\u30ad\u516c\u5f0f\u30aa\u30f3\u30e9\u30a4\u30f3\u30b9\u30c8\u30a2\u3067\u3069\u3046\u305e\u3002",
+        "h1": [
+          "\u30de\u30c3\u30c9 90 \u30d1\u30c3\u30af"
+        ],
+        "paragraphs": [
+          "\u30d5\u30c3\u30c8\u30dc\u30fc\u30eb\u30a2\u30a4\u30b3\u30f3\u3092\u30d9\u30fc\u30b9\u306b\u518d\u69cb\u7bc9\u3055\u308c\u305f\u30a8\u30a2 \u30de\u30c3\u30af\u30b9 90\u3002\u53cd\u9aa8\u7cbe\u795e\u304c\u5bbf\u308b\u30b9\u30bf\u30a4\u30eb\u3067\u8857\u3092\u99c6\u3051\u629c\u3051\u308d\u3002"
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [],
+        "addresses": [
+          "\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9"
+        ],
+        "geo": []
+      }
+    },
+    {
+      "url": "https://www.nike.com/fi",
+      "title": "Nike. Just Do It. Nike FI",
+      "meta_description": "Inspiring the world's athletes, Nike delivers innovative products, experiences and services.",
+      "headings": {
+        "h1": [
+          "Rep Five-Star Icons"
+        ],
+        "h2": [
+          "Community Discounts",
+          "Africa",
+          "Americas",
+          "Asia Pacific",
+          "Europe",
+          "Middle East"
+        ],
+        "h3": [
+          "SUMMER STARTS OUTSIDE",
+          "SUMMER STARTS OUTSIDE",
+          "Rep Five-Star Icons",
+          "Paris Saint-Germain",
+          "Ballet On Clay",
+          "Air Max 90 'Laser 90'",
+          "STYLE REDEFINED BY MOON SHOE",
+          "Paris Saint-Germain",
+          "Ballet On Clay",
+          "Air Max 90 'Laser 90'",
+          "STYLE REDEFINED BY MOON SHOE"
+        ],
+        "h4": [
+          "Shoes",
+          "Clothing",
+          "Kids'",
+          "Featured",
+          "Egypt",
+          "Morocco",
+          "Maroc",
+          "South Africa",
+          "Argentina",
+          "Brasil",
+          "Canada",
+          "Canada",
+          "Chile",
+          "Colombia",
+          "M\u00e9xico",
+          "Peru",
+          "Puerto Rico",
+          "United States",
+          "Estados Unidos",
+          "Uruguay",
+          "Latin America",
+          "Australia",
+          "\u4e2d\u56fd\u5927\u9646",
+          "Hong Kong",
+          "\u9999\u6e2f",
+          "India",
+          "Indonesia",
+          "Japan",
+          "\u65e5\u672c",
+          "\ub300\ud55c\ubbfc\uad6d",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Singapore",
+          "\u53f0\u7063",
+          "\u0e44\u0e17\u0e22",
+          "Vietnam",
+          "\u00d6sterreich",
+          "Austria",
+          "Belgien",
+          "Belgium",
+          "Belgique",
+          "Belgi\u00eb",
+          "Bulgaria",
+          "Croatia",
+          "\u010cesk\u00e1 republika",
+          "Czech Republic",
+          "Danmark",
+          "Denmark",
+          "Finland",
+          "France",
+          "Deutschland",
+          "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+          "Hungary",
+          "Magyarorsz\u00e1g",
+          "Ireland",
+          "Israel",
+          "Italia",
+          "Luxemburg",
+          "Luxembourg",
+          "Luxembourg",
+          "Netherlands",
+          "Nederland",
+          "Norway",
+          "Norge",
+          "Polska",
+          "Portugal",
+          "Portugal",
+          "Romania",
+          "\u0420\u043e\u0441\u0441\u0438\u044f",
+          "Slovakia",
+          "Slovenia",
+          "Espanya",
+          "Espa\u00f1a",
+          "Sweden",
+          "Sverige",
+          "Schweiz",
+          "Switzerland",
+          "Suisse",
+          "Svizzera",
+          "T\u00fcrkiye",
+          "United Kingdom",
+          "Saudi Arabia",
+          "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+          "United Arab Emirates",
+          "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+          "Qatar",
+          "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+          "Kuwait",
+          "\u0627\u0644\u0643\u0648\u064a\u062a"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [],
+      "phone_numbers": [],
+      "addresses": [],
+      "business_hours": [],
+      "social_links": {},
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/fi/orders/details"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/fi/help/#contact"
+        },
+        {
+          "text": "NikeSKIMS Guides",
+          "href": "https://www.nike.com/fi/nikeskims-lookbook"
+        },
+        {
+          "text": "NikeSKIMS Lookbook",
+          "href": "https://www.nike.com/fi/nikeskims-lookbook"
+        },
+        {
+          "text": "Shop By Color",
+          "href": "https://www.nike.com/fi/w/nikeskims-b2asd"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/fi/w/summer-essentials-6pei9"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/fi/w/summer-essentials-6pei9"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/fi/w/jordan-x-brasil-futebol-3eilk"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/fi/w/paris-saint-germain-aurdi"
+        },
+        {
+          "text": "Shop Slam Collection",
+          "href": "https://www.nike.com/fi/w/tennis-slam-7vd60"
+        },
+        {
+          "text": "Shop Look of Tennis",
+          "href": "https://www.nike.com/fi/w/look-of-tennis-5hxqt"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/fi/w/mad-90-pack-40e8w"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/fi/w/jordan-x-brasil-futebol-3eilk"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/fi/w/paris-saint-germain-aurdi"
+        },
+        {
+          "text": "Shop Slam Collection",
+          "href": "https://www.nike.com/fi/w/tennis-slam-7vd60"
+        },
+        {
+          "text": "Shop Look of Tennis",
+          "href": "https://www.nike.com/fi/w/look-of-tennis-5hxqt"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.nike.com/fi/w/mad-90-pack-40e8w"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/fi/orders/details"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/fi/help/#contact"
+        },
+        {
+          "text": "Order Status",
+          "href": "https://www.nike.com/fi/orders/details"
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nike.com/fi/help/#contact"
+        }
+      ],
+      "forms": [
+        {
+          "input_count": 1,
+          "method": "get",
+          "action": "",
+          "fields": [
+            "Search Products"
+          ]
+        }
+      ],
+      "has_testimonials": true,
+      "page_summary": {
+        "title": "Nike. Just Do It. Nike FI",
+        "description": "Inspiring the world's athletes, Nike delivers innovative products, experiences and services.",
+        "h1": [
+          "Rep Five-Star Icons"
+        ],
+        "paragraphs": [
+          "Gear up in lightweight, breathable styles made for every sport under the sun.",
+          "Gear up in lightweight, breathable styles made for every sport under the sun.",
+          "Level up your fit rotation with the icon-worthy imprint."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [],
+        "addresses": [
+          "Email Address"
+        ],
+        "geo": []
+      }
+    },
+    {
+      "url": "https://www.nike.com/pt",
+      "title": "Nike. Just Do It. Nike PT",
+      "meta_description": "A Nike fornece produtos, experi\u00eancias e servi\u00e7os inovadores para inspirar os atletas.",
+      "headings": {
+        "h1": [
+          "Mostra o teu orgulho nas cinco estrelas"
+        ],
+        "h2": [
+          "Descontos da comunidade",
+          "Africa",
+          "Americas",
+          "Asia Pacific",
+          "Europe",
+          "Middle East"
+        ],
+        "h3": [
+          "VER\u00c3O AO AR LIVRE",
+          "VER\u00c3O AO AR LIVRE",
+          "Mostra o teu orgulho nas cinco estrelas",
+          "Paris Saint-Germain",
+          "Ballet em terra batida",
+          "Air Max 90 \"Laser 90\"",
+          "MOON SHOE: ESTILO REDEFINIDO",
+          "Paris Saint-Germain",
+          "Ballet em terra batida",
+          "Air Max 90 \"Laser 90\"",
+          "MOON SHOE: ESTILO REDEFINIDO"
+        ],
+        "h4": [
+          "Sapatilhas",
+          "Vestu\u00e1rio",
+          "Para crian\u00e7a",
+          "Em destaque",
+          "Egypt",
+          "Morocco",
+          "Maroc",
+          "South Africa",
+          "Argentina",
+          "Brasil",
+          "Canada",
+          "Canada",
+          "Chile",
+          "Colombia",
+          "M\u00e9xico",
+          "Peru",
+          "Puerto Rico",
+          "United States",
+          "Estados Unidos",
+          "Uruguay",
+          "Latin America",
+          "Australia",
+          "\u4e2d\u56fd\u5927\u9646",
+          "Hong Kong",
+          "\u9999\u6e2f",
+          "India",
+          "Indonesia",
+          "Japan",
+          "\u65e5\u672c",
+          "\ub300\ud55c\ubbfc\uad6d",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Singapore",
+          "\u53f0\u7063",
+          "\u0e44\u0e17\u0e22",
+          "Vietnam",
+          "\u00d6sterreich",
+          "Austria",
+          "Belgien",
+          "Belgium",
+          "Belgique",
+          "Belgi\u00eb",
+          "Bulgaria",
+          "Croatia",
+          "\u010cesk\u00e1 republika",
+          "Czech Republic",
+          "Danmark",
+          "Denmark",
+          "Finland",
+          "France",
+          "Deutschland",
+          "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+          "Hungary",
+          "Magyarorsz\u00e1g",
+          "Ireland",
+          "Israel",
+          "Italia",
+          "Luxemburg",
+          "Luxembourg",
+          "Luxembourg",
+          "Netherlands",
+          "Nederland",
+          "Norway",
+          "Norge",
+          "Polska",
+          "Portugal",
+          "Portugal",
+          "Romania",
+          "\u0420\u043e\u0441\u0441\u0438\u044f",
+          "Slovakia",
+          "Slovenia",
+          "Espanya",
+          "Espa\u00f1a",
+          "Sweden",
+          "Sverige",
+          "Schweiz",
+          "Switzerland",
+          "Suisse",
+          "Svizzera",
+          "T\u00fcrkiye",
+          "United Kingdom",
+          "Saudi Arabia",
+          "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+          "United Arab Emirates",
+          "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+          "Qatar",
+          "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+          "Kuwait",
+          "\u0627\u0644\u0643\u0648\u064a\u062a"
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "emails": [],
+      "phone_numbers": [],
+      "addresses": [
+        "Endere\u00e7o de e-mail"
+      ],
+      "business_hours": [],
+      "social_links": {},
+      "geo_coordinates": [],
+      "ctas": [
+        {
+          "text": "Estado da encomenda",
+          "href": "https://www.nike.com/pt/orders/details"
+        },
+        {
+          "text": "Contacta-nos",
+          "href": "https://www.nike.com/pt/help/#contact"
+        },
+        {
+          "text": "Estado da encomenda",
+          "href": "https://www.nike.com/pt/orders/details"
+        },
+        {
+          "text": "Contacta-nos",
+          "href": "https://www.nike.com/pt/help/#contact"
+        },
+        {
+          "text": "Estado da encomenda",
+          "href": "https://www.nike.com/pt/orders/details"
+        },
+        {
+          "text": "Contacta-nos",
+          "href": "https://www.nike.com/pt/help/#contact"
+        }
+      ],
+      "forms": [
+        {
+          "input_count": 1,
+          "method": "get",
+          "action": "",
+          "fields": [
+            "Pesquisar produtos"
+          ]
+        }
+      ],
+      "has_testimonials": false,
+      "page_summary": {
+        "title": "Nike. Just Do It. Nike PT",
+        "description": "A Nike fornece produtos, experi\u00eancias e servi\u00e7os inovadores para inspirar os atletas.",
+        "h1": [
+          "Mostra o teu orgulho nas cinco estrelas"
+        ],
+        "paragraphs": [
+          "Equipa-te com estilos leves e respir\u00e1veis, concebidos para todas as atividades desportivas.",
+          "Equipa-te com estilos leves e respir\u00e1veis, concebidos para todas as atividades desportivas.",
+          "Eleva os teus looks com designs ic\u00f3nicos impressionantes."
+        ]
+      },
+      "hidden_json_data": {
+        "emails": [],
+        "phones": [],
+        "addresses": [
+          "Endere\u00e7o de e-mail"
+        ],
+        "geo": []
+      }
+    }
+  ],
+  "final_extracted_data": {
+    "emails": [
+      "support@nike.com"
+    ],
+    "phone_numbers": [
+      "+1-800-806-6453"
+    ],
+    "addresses": [
+      "Endere\u00e7o de e-mail",
+      "One Bowerman Drive",
+      "b19a7baa-294d-466a-bd06-ecee181dbf78"
+    ],
+    "business_hours": [],
+    "geo_coordinates": [],
+    "conversion_actions": [
+      {
+        "text": "Air Force 1",
+        "href": "https://nike.com/air-force-1/c/94020?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C1%2Cair-force-1"
+      },
+      {
+        "text": "Air Jordan 1",
+        "href": "https://nike.com/air-jordan-1/c/94019?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C2%2Cair-jordan-1"
+      },
+      {
+        "text": "Air Max",
+        "href": "https://nike.com/air-max/c/94031?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C3%2Cair-max"
+      },
+      {
+        "text": "Dunk",
+        "href": "https://nike.com/dunk/c/94027?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C4%2Cdunk"
+      },
+      {
+        "text": "Pegasus",
+        "href": "https://nike.com/nike-pegasus-shoes/c/99874?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C5%2Cpegasus"
+      },
+      {
+        "text": "Vomero",
+        "href": "https://nike.com/nike-vomero-shoes/c/99877?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cshop-icons%2C6%2Cvomero"
+      },
+      {
+        "text": "Shop All Sale",
+        "href": "https://nike.com/shop-all-sale/c/99440?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cfeatured%2C3%2Cmarkdowns&f=category_filter%3D92563_&root=nav_3&ptype=listing%2Cmen%2Cfeatured%2C3%2Cshop-all-sale"
+      },
+      {
+        "text": "All Conditions Gear",
+        "href": "https://nike.com/all-condition-gear/c/94468?root=nav_3&ptype=listing%2Cmen%2Cfeatured%2C4%2Call-conditions-gear"
+      },
+      {
+        "text": "All Shoes",
+        "href": "https://nike.com/men/men-s-shoes/c/92564?root=nav_3&ptype=listing%2Cmen%2Cshoes%2C1%2Call-shoes"
+      },
+      {
+        "text": "All Clothing",
+        "href": "https://nike.com/men/men-clothing/c/92567?root=nav_3&ptype=listing%2Cmen%2Cclothing%2C1%2Call-clothing"
+      },
+      {
+        "text": "Running",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078582_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C1%2Crunning"
+      },
+      {
+        "text": "Basketball",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078583_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C2%2Cbasketball"
+      },
+      {
+        "text": "Football",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078581_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C3%2Cfootball"
+      },
+      {
+        "text": "Golf",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078580_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C4%2Cgolf"
+      },
+      {
+        "text": "Tennis & Pickleball",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078577_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C5%2Ctennis-%26-pickleball"
+      },
+      {
+        "text": "Gym & Training",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078578_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C6%2Cgym-%26-training"
+      },
+      {
+        "text": "Yoga",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3079815_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C7%2Cyoga"
+      },
+      {
+        "text": "Skateboarding",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5197_%3Bnike_sports_type_filter%3D3078574_&root=nav_3&ptype=listing%2Cmen%2Cshop-by-sport%2C8%2Cskateboarding"
+      },
+      {
+        "text": "All Accessories & Equipment",
+        "href": "https://nike.com/men/accessories-equipments/c/92568?root=nav_3&ptype=listing%2Cmen%2Caccessories-%26-equipment%2C1%2Call-accessories-%26-equipment"
+      },
+      {
+        "text": "Shop All Sale",
+        "href": "https://nike.com/shop-all-sale/c/99440?root=nav_3&ptype=listing%2Cnew-%26-featured%2Cfeatured%2C3%2Cmarkdowns&f=category_filter%3D92561_&root=nav_3&ptype=listing%2Cwomen%2Cfeatured%2C3%2Cshop-all-sale"
+      },
+      {
+        "text": "All Shoes",
+        "href": "https://nike.com/women/women-shoes/c/92562?root=nav_3&ptype=listing%2Cwomen%2Cshoes%2C1%2Call-shoes"
+      },
+      {
+        "text": "All Clothing",
+        "href": "https://nike.com/women/women-clothing/c/92747?root=nav_3&ptype=listing%2Cwomen%2Cclothing%2C1%2Call-clothing"
+      },
+      {
+        "text": "Yoga",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5196_%3Bnike_sports_type_filter%3D3079815_&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga"
+      },
+      {
+        "text": "Running",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5196_%3Bnike_sports_type_filter%3D3078582_&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C2%2Crunning"
+      },
+      {
+        "text": "Gym & Training",
+        "href": "https://nike.com/nike_store/c/2?f=gender_filter%3D5196_%3Bnike_sports_type_filter%3D3078578_&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C1%2Cyoga&root=nav_3&ptype=listing%2Cwomen%2Cshop-by-sport%2C3%2Cgym-%26-training"
+      }
+    ],
+    "social_links": {},
+    "tech_stack": [
+      "Google Analytics (GA4)",
+      "Google Tag Manager (GTM)",
+      "Meta Pixel"
+    ]
+  },
+  "analysis_basis": {
+    "seo": {
+      "score": 95,
+      "title": "Nike. Just Do It. Nike IN",
+      "title_length": 25,
+      "meta_description": "Nike - Official Online Store for Athletic Shoes, Clothing & Sports Gear. Shop the latest Nike products and enjoy free shipping.",
+      "meta_length": 127,
+      "has_canonical": true,
+      "h1_count": 1,
+      "h2_count": 3,
+      "h3_count": 1,
+      "total_images": 16,
+      "missing_alt_images": 2,
+      "alt_text_coverage_pct": 87.5,
+      "top_keywords": [
+        {
+          "keyword": "all",
+          "count": 17,
+          "density_pct": 3.640256959314775
+        },
+        {
+          "keyword": "shop",
+          "count": 13,
+          "density_pct": 2.7837259100642395
+        },
+        {
+          "keyword": "new",
+          "count": 10,
+          "density_pct": 2.141327623126338
+        },
+        {
+          "keyword": "running",
+          "count": 10,
+          "density_pct": 2.141327623126338
+        },
+        {
+          "keyword": "shoes",
+          "count": 10,
+          "density_pct": 2.141327623126338
+        }
+      ],
+      "readability_score": 21.356957309388804,
+      "recommendations": [
+        "Optimize title length (currently 25 chars, ideal is 30-60)."
+      ]
+    },
+    "performance": {
+      "source": "Browser Timings",
+      "score_performance": 65,
+      "score_accessibility": 80,
+      "score_best_practices": 85,
+      "score_seo": 80,
+      "fcp_s": 2.596,
+      "lcp_s": 4.394,
+      "cls": 0.05,
+      "tbt_ms": 100,
+      "mobile_friendly": true,
+      "recommendations": [
+        "Optimize site assets to lower load time (currently 4.39s).",
+        "Optimize server response time and eliminate render-blocking elements."
+      ]
+    },
+    "cro": {
+      "score": 75,
+      "has_cta_above_fold": false,
+      "has_booking": true,
+      "has_chat": true,
+      "max_form_fields": 1,
+      "has_complex_forms": false,
+      "has_social_proof": true,
+      "has_trust_signals": false,
+      "has_sticky_cta": false,
+      "friction_points": [
+        "No prominent Call-to-Action (CTA) visible above the fold.",
+        "Few trust badges, security statements, or satisfaction guarantees."
+      ],
+      "recommendations": [
+        "Place a clear, high-contrast CTA button in the hero section above the fold (e.g., 'Book a Call', 'Get Started').",
+        "Incorporate trust badges, SSL icons, or satisfaction statements near forms to reassure prospects."
+      ]
+    },
+    "hiring": {
+      "has_careers_page": false,
+      "careers_url": "",
+      "ats_detected": [],
+      "open_roles": [],
+      "role_count": 0,
+      "departments": {
+        "Engineering & Product": 0,
+        "Sales & Marketing": 0,
+        "Operations & Support": 0
+      },
+      "growth_focus": "Stable"
+    },
+    "social": {
+      "score": 15,
+      "platforms_detected": [],
+      "consistency_score": 0,
+      "recommendations": [
+        "Establish a social media presence (e.g., LinkedIn, Instagram, Facebook)."
+      ]
+    },
+    "reviews": {
+      "average_rating": 4.0,
+      "sentiment_label": "Neutral/No reviews found",
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "common_praise": [],
+      "common_complaints": [],
+      "reputation_score": 75,
+      "reviews": []
+    },
+    "scores": {
+      "overall": 69,
+      "opportunity_tier": "Medium",
+      "lead_quality": "Warm Lead (Optimize Gaps)",
+      "scores": {
+        "seo": 95,
+        "performance": 65,
+        "conversion": 75,
+        "trust": 75,
+        "social": 15,
+        "growth": 40
+      }
+    }
+  }
+}

@@ -39,7 +39,8 @@ class CROAnalyzer:
         has_chat = False
         chat_keywords = ['intercom', 'drift', 'zendesk', 'hubspot-messages', 'zopim', 'livechat']
         pages_to_check = crawled_pages if crawled_pages else { "home": homepage_html }
-        for page_url, html in pages_to_check.items():
+        for page_url, page_data in pages_to_check.items():
+            html = page_data.get("html", "") if isinstance(page_data, dict) else str(page_data)
             if any(term in html.lower() for term in chat_keywords):
                 has_chat = True
                 break

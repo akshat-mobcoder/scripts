@@ -1,4 +1,5 @@
 import os
+import re
 from jinja2 import Template
 from core.utils import setup_logger
 from config import OUTPUT_REPORTS_DIR, OUTPUT_AUDITS_DIR
@@ -6,6 +7,163 @@ from config import OUTPUT_REPORTS_DIR, OUTPUT_AUDITS_DIR
 logger = setup_logger("ai.report_generator")
 
 class ReportGenerator:
+    @staticmethod
+    def _format_list(values, empty="None detected"):
+        values = values or []
+        if not values:
+            return f"- {empty}"
+        return "\n".join([f"- {value}" for value in values])
+
+    @staticmethod
+    def _format_hours(values):
+        values = values or []
+        day_re = r"\b(mon|monday|tue|tues|tuesday|wed|wednesday|thu|thur|thurs|thursday|fri|friday|sat|saturday|sun|sunday|daily|everyday)\b"
+        time_re = r"(\d{1,2}:\d{2}\s*(am|pm|a\.m\.|p\.m\.)?|\d{1,2}\s*(am|pm|a\.m\.|p\.m\.)|closed|open 24)"
+        filtered = [
+            value for value in values
+            if isinstance(value, str) and re.search(day_re, value, re.I) and re.search(time_re, value, re.I)
+        ]
+        return ReportGenerator._format_list(filtered)
+
+    @staticmethod
+    def generate_evidence_markdown(data, evidence):
+        """Build a manager-readable evidence report showing what each output used."""
+        logger.info("Generating manager evidence report...")
+
+        name = data.get("business_name") or "Business"
+        clean_name = name.split('|')[0].split('-')[0].strip()
+        settings = evidence.get("crawler_settings", {})
+        pages = evidence.get("pages", [])
+        scores = data.get("scores", {}).get("scores", {})
+        outreach = data.get("outreach", {})
+
+        page_sections = []
+        for idx, page in enumerate(pages, start=1):
+            ctas = [f"{cta.get('text', '')} -> {cta.get('href', '')}".strip(" ->") for cta in page.get("ctas", [])]
+            forms = [
+                f"{form.get('input_count', 0)} fields ({', '.join(form.get('fields', [])[:6])})"
+                for form in page.get("forms", [])
+            ]
+            summary = page.get("page_summary", {})
+            paragraphs = summary.get("paragraphs", [])
+            page_sections.append(f"""### {idx}. {page.get('url', 'Unknown URL')}
+
+**Title:** {page.get('title') or 'None'}
+**Meta Description:** {page.get('meta_description') or 'None'}
+**H1s:** {", ".join(summary.get('h1', [])) or 'None'}
+
+**Extracted Emails**
+{ReportGenerator._format_list(page.get('emails', []))}
+
+**Extracted Phones**
+{ReportGenerator._format_list(page.get('phone_numbers', []))}
+
+**Extracted Addresses**
+{ReportGenerator._format_list(page.get('addresses', []))}
+
+**Business Hours**
+{ReportGenerator._format_hours(page.get('business_hours', []))}
+
+**Social Links**
+{ReportGenerator._format_list([f"{k}: {v}" for k, v in page.get('social_links', {}).items()])}
+
+**Conversion Actions / CTAs**
+{ReportGenerator._format_list(ctas)}
+
+**Forms Detected**
+{ReportGenerator._format_list(forms)}
+
+**Visible Copy Samples Used For Context**
+{ReportGenerator._format_list(paragraphs, "No paragraph samples captured")}
+""")
+
+        md_content = f"""# Manager Evidence Report
+
+**Target Business:** {clean_name}
+**Website URL:** {data.get('website_url', 'N/A')}
+**Pages Crawled:** {len(pages)}
+
+This file explains what the audit and outreach drafts are based on. Crawl limits and rate settings are unchanged.
+
+---
+
+## Crawl Settings Used
+
+- **Max Depth:** {settings.get('max_depth')}
+- **Max Pages Per Domain:** {settings.get('max_pages_per_domain')}
+- **Concurrency Limit:** {settings.get('concurrency_limit')}
+- **Rate Limit Seconds:** {settings.get('rate_limit_seconds')}
+- **Respect Robots.txt:** {settings.get('respect_robots_txt')}
+
+---
+
+## Final Extracted Company Data
+
+**Emails**
+{ReportGenerator._format_list(data.get('emails', []))}
+
+**Phone Numbers**
+{ReportGenerator._format_list(data.get('phone_numbers', []))}
+
+**Addresses**
+{ReportGenerator._format_list(data.get('addresses', []))}
+
+**Business Hours**
+{ReportGenerator._format_hours(data.get('business_hours', []))}
+
+**Social Links**
+{ReportGenerator._format_list([f"{k}: {v}" for k, v in data.get('social_links', {}).items()])}
+
+**Tech Stack**
+{ReportGenerator._format_list(data.get('tech_stack', []))}
+
+---
+
+## Score Basis
+
+- **Overall Opportunity Score:** {data.get('scores', {}).get('overall', 'N/A')}/100
+- **SEO:** {scores.get('seo', 'N/A')}/100 based on title, meta description, headings, canonical tag, image alt coverage, keywords, and readability.
+- **Performance:** {scores.get('performance', 'N/A')}/100 based on Lighthouse when available, otherwise browser load timing fallback.
+- **Conversion:** {scores.get('conversion', 'N/A')}/100 based on CTAs, booking paths, forms, chat widgets, testimonials, and trust signals.
+- **Trust:** {scores.get('trust', 'N/A')}/100 based on detected reviews/testimonials and reputation signals.
+- **Social:** {scores.get('social', 'N/A')}/100 based on detected social links and brand consistency.
+- **Growth:** {scores.get('growth', 'N/A')}/100 based on careers/hiring signals.
+
+---
+
+## Recommendations Used
+
+{ReportGenerator._format_list(data.get('seo', {}).get('recommendations', []) + data.get('performance', {}).get('recommendations', []) + data.get('cro', {}).get('recommendations', []), "No recommendations generated")}
+
+---
+
+## Outreach Draft Basis
+
+The email, WhatsApp, and SMS drafts use the public company data above plus the score findings and recommendations.
+
+**Email Draft**
+```text
+{outreach.get('email') or data.get('outreach_email', '')}
+```
+
+**WhatsApp Draft**
+```text
+{outreach.get('whatsapp', '')}
+```
+
+**SMS Draft**
+```text
+{outreach.get('sms', '')}
+```
+
+---
+
+## Page-by-Page Evidence
+
+{chr(10).join(page_sections) if page_sections else "No page evidence captured."}
+"""
+        return md_content
+
     @staticmethod
     def generate_markdown(data):
         """Build an executive Markdown audit report."""
@@ -88,6 +246,15 @@ class ReportGenerator:
 ## Personalized Outreach Template
 ```text
 {data.get('outreach_email', '')}
+```
+
+## WhatsApp / SMS Drafts
+```text
+WhatsApp:
+{data.get('outreach', {}).get('whatsapp', '')}
+
+SMS:
+{data.get('outreach', {}).get('sms', '')}
 ```
 """
         return md_content
@@ -590,7 +757,7 @@ class ReportGenerator:
         
         # Write HTML report
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        with open(output_path, 'w') as f:
+        with open(output_path, 'w', encoding='utf-8') as f:
             f.write(html_content)
         logger.info(f"Saved premium HTML report to {output_path}")
         

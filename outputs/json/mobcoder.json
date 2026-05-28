@@ -1,23 +1,142 @@
 {
   "business_name": "Mobcoder",
-  "website_url": "https://mobcoder.com/",
+  "website_url": "https://mobcoder.com",
   "description": "Mobcoder is a leading mobile, web app, and AI development company delivering scalable, innovative digital solutions for startups and enterprises worldwide.",
   "emails": [
     "hr@mobcoder.com",
     "sales@mobcoder.com"
   ],
-  "phone_numbers": [],
+  "phone_numbers": [
+    "+1 (306) 716-9910",
+    "+1 206 295 9310",
+    "+1 206 745 2299",
+    "+1 306 850 8510",
+    "+13067169910",
+    "+44 776 695 0547",
+    "+61 0401954097",
+    "+61401954097",
+    "+91 (8750) 111-200",
+    "+918750111200",
+    "+971 (52) 550-1609",
+    "+971525501609"
+  ],
   "addresses": [
     "75 Arlington St Boston, MA 02116",
     "Australia 3 Yaralla Rd, Bentleigh East, VIC, 3165 sales@mobcoder.com",
+    "B-4, 2nd Floor, Sector 63",
     "Dubai Level 1, Avenue Gate, South Zone, DIFC, Dubai, UAE sales@mobcoder.com",
     "India USA Canada UAE KSA UK Australia",
     "London The Long Barn Down Farm Cobham Park Road Surrey, Cobham KT11 3NE sales@mobcoder.com",
     "Noida B-4/5, 2nd Floor Sector 63, Noida 201301 sales@mobcoder.com",
-    "Riyadh Level 29, Tower B, Olaya Towers, Riyadh-12213, Saudi Arabia sales@mobcoder.com",
+    "PO Box 28922, Seattle",
     "Riyadh Level 29, Tower B, Olaya Towers, Riyadh-12213, Saudi Arabia/p> sales@mobcoder.com",
     "Seattle 11245 35th Avenue SW Boston 75 Arlington St Boston, MA 02116 sales@mobcoder.com",
+    "The Long Barn, Down Farm, CobhamPark Road, Surrey",
     "Vancouver Suite 300 - 3665 Kingsway Vancouver, BC V5R 5W2 sales@mobcoder.com"
+  ],
+  "business_hours": [],
+  "geo_coordinates": [],
+  "conversion_actions": [
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "CONTACT US",
+      "href": "https://mobcoder.com/contact/"
+    },
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "CONTACT US",
+      "href": "https://mobcoder.com/contact/"
+    },
+    {
+      "text": "Let's Talk",
+      "href": "https://mobcoder.com/contact"
+    },
+    {
+      "text": "Let's Talk",
+      "href": "https://mobcoder.com/contact"
+    },
+    {
+      "text": "LET\u2019S TALK",
+      "href": "https://mobcoder.com/contact"
+    },
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "Get A Quote",
+      "href": "https://mobcoder.com/contact"
+    },
+    {
+      "text": "Get in touch",
+      "href": "https://mobcoder.com/contact"
+    },
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "Get A Quote",
+      "href": "https://mobcoder.com/contact"
+    },
+    {
+      "text": "Get in touch",
+      "href": "https://mobcoder.com/contact"
+    },
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "CONTACT US",
+      "href": "https://mobcoder.com/contact/"
+    },
+    {
+      "text": "LET'S DISCUSS",
+      "href": "https://mobcoder.com/contact"
+    },
+    {
+      "text": "LET'S TALK",
+      "href": "https://mobcoder.com/contact"
+    },
+    {
+      "text": "LET'S TALK",
+      "href": "https://mobcoder.com/contact"
+    },
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "Hire Shopify Developers",
+      "href": "https://mobcoder.com/hire-shopify-developers"
+    },
+    {
+      "text": "Get A Quote",
+      "href": "https://mobcoder.com/contact"
+    }
   ],
   "social_links": {
     "Instagram": "https://www.instagram.com/mobcoderinc/",
@@ -26,7 +145,8 @@
     "Twitter": "https://twitter.com/mobcoderinc"
   },
   "tech_stack": [
-    "Google Analytics (GA4)"
+    "Google Analytics (GA4)",
+    "Google Tag Manager (GTM)"
   ],
   "seo": {
     "score": 100,
@@ -72,20 +192,19 @@
     "recommendations": []
   },
   "performance": {
-    "source": "Lighthouse",
-    "score_performance": 31,
-    "score_accessibility": 83,
-    "score_best_practices": 56,
-    "score_seo": 100,
-    "fcp_s": 5.0969717999999995,
-    "lcp_s": 29.35492279999998,
-    "cls": 0.003288350574551923,
-    "tbt_ms": 1324.3725499999919,
+    "source": "Browser Timings",
+    "score_performance": 40,
+    "score_accessibility": 80,
+    "score_best_practices": 85,
+    "score_seo": 80,
+    "fcp_s": 3.595,
+    "lcp_s": 6.465,
+    "cls": 0.05,
+    "tbt_ms": 100,
     "mobile_friendly": true,
     "recommendations": [
-      "Eliminate render-blocking resources (potential savings: Est savings of 1,570\u00a0ms)",
-      "Remove unused JavaScript (potential savings: Est savings of 371\u00a0KiB)",
-      "Defer offscreen images (potential savings: Est savings of 420\u00a0KiB)"
+      "Optimize site assets to lower load time (currently 6.46s).",
+      "Optimize server response time and eliminate render-blocking elements."
     ]
   },
   "cro": {
@@ -143,19 +262,21 @@
     "reviews": []
   },
   "scores": {
-    "overall": 76,
+    "overall": 78,
     "opportunity_tier": "Low",
     "lead_quality": "Cold Lead (Highly Optimized)",
     "scores": {
       "seo": 100,
-      "performance": 31,
+      "performance": 40,
       "conversion": 85,
       "trust": 75,
       "social": 100,
       "growth": 40
     }
   },
-  "summary": "An executive review was performed on Mobcoder's web operations and marketing readiness. The site utilizes a tech stack consisting of Google Analytics (GA4). We identified significant mobile performance bottlenecks, which may increase bounce rates. Addressing these core metrics can increase visitor conversion and lead intake.",
+  "evidence_file": "C:\\Users\\raina\\scripts\\outputs\\evidence\\mobcoder_evidence.md",
+  "evidence_json_file": "C:\\Users\\raina\\scripts\\outputs\\evidence\\mobcoder_evidence.json",
+  "summary": "An executive review was performed on Mobcoder's web operations and marketing readiness. The site utilizes a tech stack consisting of Google Analytics (GA4), Google Tag Manager (GTM). We identified significant mobile performance bottlenecks, which may increase bounce rates. Addressing these core metrics can increase visitor conversion and lead intake.",
   "swot": {
     "strengths": [
       "Structured search metadata, including descriptive title and header configurations.",
@@ -173,5 +294,10 @@
       "Competitors with faster mobile sites capturing organic traffic due to lower bounce rates."
     ]
   },
-  "outreach_email": "Subject: Quick growth audit for Mobcoder\n\nHi Mobcoder Team,\n\nI recently ran a quick performance and conversion audit on https://mobcoder.com/. We saw your active profiles on Instagram, Facebook, LinkedIn and Twitter.\n\nYou have a great foundation, but I noticed a couple of technical adjustments that are likely costing you leads and sales:\n\n- Mobile Performance: The website takes around 29.4 seconds to fully load, which is likely causing mobile visitors to bounce before they contact you.\n\nThese are relatively straightforward adjustments that can increase your conversion rates by 15-30%.\n\nI've put together a 10-minute video showing exactly how to fix these gaps. Would it be alright if I sent that video over? No strings attached.\n\nBest regards,\n\n[Your Name]\n[Your Contact Info]"
+  "outreach": {
+    "email": "Subject: Quick growth audit for Mobcoder\n\nHi Mobcoder Team,\n\nI recently ran a quick performance and conversion audit on https://mobcoder.com. We saw your active profiles on Instagram, Facebook, LinkedIn and Twitter.\n\nI saw that Mobcoder positions itself around: \"Mobcoder is a leading mobile, web app, and AI development company delivering scalable, innovative digital solutions for startups and enterprises worldwide.\"\n\nI noticed your primary website action is 'Hire Shopify Developers', so I focused the audit on reducing friction around that path. \n\nYou have a great foundation, but I noticed a couple of technical adjustments that are likely costing you leads and sales:\n\n- Mobile Performance: The website takes around 6.5 seconds to fully load, which is likely causing mobile visitors to bounce before they contact you.\n\nThese are relatively straightforward adjustments that can increase your conversion rates by 15-30%.\n\nI've put together a 10-minute video showing exactly how to fix these gaps. Would it be alright if I sent that video over? No strings attached.\n\nIf this is not relevant, reply \"not interested\" and I will not follow up.\n\nBest regards,\n\n[Your Name]\n[Your Contact Info]",
+    "whatsapp": "Hi Mobcoder Team, I reviewed https://mobcoder.com and found a few quick conversion opportunities:\n\n1. Mobile Performance: The website takes around 6.5 seconds to fully load, which is likely causing mobile visitors to bounce before they contact you.\n\n\nI noticed your primary website action is 'Hire Shopify Developers', so I focused the audit on reducing friction around that path.\n\nWould you like me to send a short video audit with 3 specific improvements? Reply STOP if you do not want messages.",
+    "sms": "Hi Mobcoder, I reviewed https://mobcoder.com and found quick website conversion wins. Can I send a short video audit with 3 fixes? Reply STOP to opt out."
+  },
+  "outreach_email": "Subject: Quick growth audit for Mobcoder\n\nHi Mobcoder Team,\n\nI recently ran a quick performance and conversion audit on https://mobcoder.com. We saw your active profiles on Instagram, Facebook, LinkedIn and Twitter.\n\nI saw that Mobcoder positions itself around: \"Mobcoder is a leading mobile, web app, and AI development company delivering scalable, innovative digital solutions for startups and enterprises worldwide.\"\n\nI noticed your primary website action is 'Hire Shopify Developers', so I focused the audit on reducing friction around that path. \n\nYou have a great foundation, but I noticed a couple of technical adjustments that are likely costing you leads and sales:\n\n- Mobile Performance: The website takes around 6.5 seconds to fully load, which is likely causing mobile visitors to bounce before they contact you.\n\nThese are relatively straightforward adjustments that can increase your conversion rates by 15-30%.\n\nI've put together a 10-minute video showing exactly how to fix these gaps. Would it be alright if I sent that video over? No strings attached.\n\nIf this is not relevant, reply \"not interested\" and I will not follow up.\n\nBest regards,\n\n[Your Name]\n[Your Contact Info]"
 }

@@ -1,0 +1,288 @@
+{
+  "business_name": "SyncFrq",
+  "website_url": "https://www.compdoc.ru/os/linux/data-recovering/",
+  "description": "\u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0443\u043f\u043e\u0440\u043d\u043e\u0435 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 \u043e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f :) \u0432\u043a\u0443\u043f\u0435 \u0441 \u0430\u043d\u043e\u043d\u0438\u043c\u0443\u0441\u0430\u043c\u0438 \u0441 linux.org.ru :) , Linux \u043d\u0435 \u0441\u043f\u0435\u0448\u0430, \u043d\u043e \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u043e \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043c\u0435\u0441\u0442\u0430 \u043d\u0430 \u0434\u0435\u0441\u043a\u0442\u043e\u043f\u0430\u0445 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439.",
+  "emails": [
+    "--rating@mail.ru",
+    "alv@posix.ru",
+    "garloff@suse.de",
+    "grenier@cgsecurity.org"
+  ],
+  "phone_numbers": [],
+  "addresses": [],
+  "business_hours": [
+    "-v -y 1G -l samsung200.log -o samsung200.bb /dev/hdc /dev/sda",
+    "-y 1G -l samsung200.log -o samsung200.bb /dev/hdc /dev/sda",
+    "/dev/hdc /dev/sda samsung200.log",
+    "Device Model: SAMSUNG SP2014N",
+    "Local Time is: Tue Sep 18 00:12:19 2007 EEST",
+    "dd_rescue: (info): Logfile: samsung200.log, Maxerr: 0",
+    "of=samsung200.mbr.old count=1",
+    "\u0437\u0430\u0431\u044d\u0434\u043e\u0432\u0430\u0432\u0448\u0435\u0433\u043e\u0441\u044f \u0432\u0438\u043d\u0447\u0435\u0441\u0442\u0435\u0440\u0430 Samsung \u043e\u0431\u044a\u0435\u043c\u043e\u043c 200 \u0413\u0411, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u043c, \u043a \u0442\u043e\u043c\u0443",
+    "\u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e :) \u043e\u043a\u0430\u0437\u0430\u043b\u0441\u044f 500-\u0433\u0438\u0433\u0430\u0431\u0430\u0439\u0442\u043d\u044b\u0439 WD \u0441 SATA \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u043c. \u041f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u0438\u043c"
+  ],
+  "geo_coordinates": [],
+  "conversion_actions": [
+    {
+      "text": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b",
+      "href": "http://www.compdoc.ru/contact.php"
+    },
+    {
+      "text": "E-Books",
+      "href": "http://www.compdoc.ru/ebook/index.php"
+    },
+    {
+      "text": "Linux... \u043d\u0430 \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u0435?",
+      "href": "http://www.compdoc.ru/os/linux/linux_on_notebook/"
+    },
+    {
+      "text": "CompDoc.Ru",
+      "href": "http://www.compdoc.ru/contact.php"
+    },
+    {
+      "text": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b",
+      "href": "http://www.compdoc.ru/contact.php"
+    },
+    {
+      "text": "E-Books",
+      "href": "http://www.compdoc.ru/ebook/index.php"
+    },
+    {
+      "text": "CompDoc.Ru",
+      "href": "http://www.compdoc.ru/contact.php"
+    },
+    {
+      "text": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b",
+      "href": "http://www.compdoc.ru/contact.php"
+    },
+    {
+      "text": "E-Books",
+      "href": "http://www.compdoc.ru/ebook/index.php"
+    },
+    {
+      "text": "Linux: \u0440\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0435 \u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+      "href": "http://www.compdoc.ru/os/linux/reserve_copying/"
+    },
+    {
+      "text": "CompDoc.Ru",
+      "href": "http://www.compdoc.ru/contact.php"
+    },
+    {
+      "text": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b",
+      "href": "http://www.compdoc.ru/contact.php"
+    },
+    {
+      "text": "E-Books",
+      "href": "http://www.compdoc.ru/ebook/index.php"
+    },
+    {
+      "text": "\u041a\u0430\u043a \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043d\u043e\u0443\u0442\u0431\u0443\u043a \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0438 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0439",
+      "href": "https://www.compdoc.ru/portable_tech/notebooks/how-choose-notebook-for-travel/"
+    },
+    {
+      "text": "\u0423\u0447\u0435\u0431\u043d\u0438\u043a Photoshop 7",
+      "href": "http://www.compdoc.ru/grafics/photoshop/textbook7/"
+    },
+    {
+      "text": "\u0423\u0447\u0435\u0431\u043d\u0438\u043a PHP 4.0",
+      "href": "http://www.compdoc.ru/internet/php/phpbook/"
+    },
+    {
+      "text": "PhotoShop",
+      "href": "http://www.compdoc.ru/grafics/photoshop/"
+    },
+    {
+      "text": "\u041d\u043e\u0443\u0442\u0431\u0443\u043a\u0438",
+      "href": "http://www.compdoc.ru/portable_tech/notebooks/"
+    },
+    {
+      "text": "CompDoc.Ru",
+      "href": "http://www.compdoc.ru/contact.php"
+    },
+    {
+      "text": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b",
+      "href": "http://www.compdoc.ru/contact.php"
+    },
+    {
+      "text": "E-Books",
+      "href": "http://www.compdoc.ru/ebook/index.php"
+    },
+    {
+      "text": "\u0423\u0447\u0435\u0431\u043d\u0438\u043a Photoshop 7",
+      "href": "http://www.compdoc.ru/grafics/photoshop/textbook7/"
+    },
+    {
+      "text": "\u0423\u0447\u0435\u0431\u043d\u0438\u043a PHP 4.0",
+      "href": "http://www.compdoc.ru/internet/php/phpbook/"
+    },
+    {
+      "text": "CompDoc.Ru",
+      "href": "http://www.compdoc.ru/contact.php"
+    },
+    {
+      "text": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b",
+      "href": "http://www.compdoc.ru/contact.php"
+    }
+  ],
+  "social_links": {},
+  "tech_stack": [],
+  "seo": {
+    "score": 75,
+    "title": "\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u043f\u043e\u0434 Linux | \u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u0430\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f \u043e\u0442 \u0410 \u0434\u043e \u042f - Linux",
+    "title_length": 77,
+    "meta_description": "\u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0443\u043f\u043e\u0440\u043d\u043e\u0435 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 \u043e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f :) \u0432\u043a\u0443\u043f\u0435 \u0441 \u0430\u043d\u043e\u043d\u0438\u043c\u0443\u0441\u0430\u043c\u0438 \u0441 linux.org.ru :) , Linux \u043d\u0435 \u0441\u043f\u0435\u0448\u0430, \u043d\u043e \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u043e \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043c\u0435\u0441\u0442\u0430 \u043d\u0430 \u0434\u0435\u0441\u043a\u0442\u043e\u043f\u0430\u0445 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439.",
+    "meta_length": 214,
+    "has_canonical": false,
+    "h1_count": 1,
+    "h2_count": 5,
+    "h3_count": 0,
+    "total_images": 9,
+    "missing_alt_images": 7,
+    "alt_text_coverage_pct": 22.22222222222222,
+    "top_keywords": [
+      {
+        "keyword": "dev",
+        "count": 81,
+        "density_pct": 4.32230522945571
+      },
+      {
+        "keyword": "partition",
+        "count": 43,
+        "density_pct": 2.2945570971184632
+      },
+      {
+        "keyword": "disk",
+        "count": 38,
+        "density_pct": 2.0277481323372464
+      },
+      {
+        "keyword": "org",
+        "count": 30,
+        "density_pct": 1.6008537886872998
+      },
+      {
+        "keyword": "ntfs",
+        "count": 28,
+        "density_pct": 1.4941302027748131
+      }
+    ],
+    "readability_score": 87.28660013752592,
+    "recommendations": [
+      "Optimize title length (currently 77 chars, ideal is 30-60).",
+      "Optimize meta description length (currently 214 chars, ideal is 70-160).",
+      "Add a rel='canonical' link to prevent duplicate content issues.",
+      "Improve alt text coverage on images (currently 22.2% covered)."
+    ]
+  },
+  "performance": {
+    "source": "Browser Timings",
+    "score_performance": 65,
+    "score_accessibility": 80,
+    "score_best_practices": 85,
+    "score_seo": 80,
+    "fcp_s": 1.387,
+    "lcp_s": 4.175,
+    "cls": 0.05,
+    "tbt_ms": 100,
+    "mobile_friendly": true,
+    "recommendations": [
+      "Optimize site assets to lower load time (currently 4.17s)."
+    ]
+  },
+  "cro": {
+    "score": 55,
+    "has_cta_above_fold": false,
+    "has_booking": true,
+    "has_chat": false,
+    "max_form_fields": 0,
+    "has_complex_forms": false,
+    "has_social_proof": false,
+    "has_trust_signals": false,
+    "has_sticky_cta": false,
+    "friction_points": [
+      "No prominent Call-to-Action (CTA) visible above the fold.",
+      "Lacks customer reviews, testimonials, or logos on-site.",
+      "Few trust badges, security statements, or satisfaction guarantees.",
+      "No live chat or interactive lead capture widgets."
+    ],
+    "recommendations": [
+      "Place a clear, high-contrast CTA button in the hero section above the fold (e.g., 'Book a Call', 'Get Started').",
+      "Add a testimonials section or trust logos to establish credibility and social proof on the homepage.",
+      "Incorporate trust badges, SSL icons, or satisfaction statements near forms to reassure prospects.",
+      "Install an interactive chat widget (e.g., HubSpot Chat, Drift) to capture visitors before they bounce."
+    ]
+  },
+  "hiring": {
+    "has_careers_page": false,
+    "careers_url": "",
+    "ats_detected": [],
+    "open_roles": [],
+    "role_count": 0,
+    "departments": {
+      "Engineering & Product": 0,
+      "Sales & Marketing": 0,
+      "Operations & Support": 0
+    },
+    "growth_focus": "Stable"
+  },
+  "social": {
+    "score": 15,
+    "platforms_detected": [],
+    "consistency_score": 0,
+    "recommendations": [
+      "Establish a social media presence (e.g., LinkedIn, Instagram, Facebook)."
+    ]
+  },
+  "reviews": {
+    "average_rating": 4.0,
+    "sentiment_label": "Neutral/No reviews found",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0,
+    "common_praise": [],
+    "common_complaints": [],
+    "reputation_score": 75,
+    "reviews": []
+  },
+  "scores": {
+    "overall": 59,
+    "opportunity_tier": "Medium",
+    "lead_quality": "Warm Lead (Optimize Gaps)",
+    "scores": {
+      "seo": 75,
+      "performance": 65,
+      "conversion": 55,
+      "trust": 75,
+      "social": 15,
+      "growth": 40
+    }
+  },
+  "evidence_file": "C:\\Users\\raina\\scripts\\outputs\\evidence\\syncfrq_evidence.md",
+  "evidence_json_file": "C:\\Users\\raina\\scripts\\outputs\\evidence\\syncfrq_evidence.json",
+  "summary": "An executive review was performed on SyncFrq's web operations and marketing readiness. The site utilizes a tech stack consisting of no tracking or CRM scripts detected. We identified missing critical trust factors and Call-to-Action (CTA) anchors above the fold. Addressing these core metrics can increase visitor conversion and lead intake.",
+  "swot": {
+    "strengths": [
+      "Structured search metadata, including descriptive title and header configurations.",
+      "Strong social proof backed by visible client reviews and testimonials."
+    ],
+    "weaknesses": [
+      "High page load latency, which increases visitor bounce rates.",
+      "Friction in user intake flow; no direct booking option or sticky CTA headers.",
+      "Inconsistent social presence or missing high-value profile networks."
+    ],
+    "opportunities": [
+      "Compress heavy images and optimize server script load order to increase mobile performance.",
+      "Integrate inline widgets (like Calendly) and floating CTA elements to increase signups.",
+      "Establish a branded presence on missing social channels to capture local traffic."
+    ],
+    "threats": [
+      "Inbound paid ad traffic bouncing due to complicated contact forms."
+    ]
+  },
+  "outreach": {
+    "email": "Subject: Quick growth audit for SyncFrq\n\nHi SyncFrq Team,\n\nI recently ran a quick performance and conversion audit on https://www.compdoc.ru/os/linux/data-recovering/. We also noticed you don't have active links to social media platforms in your main menu, which is a great way to build client trust.\n\nI saw that SyncFrq positions itself around: \"\u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0443\u043f\u043e\u0440\u043d\u043e\u0435 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 \u043e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f :) \u0432\u043a\u0443\u043f\u0435 \u0441 \u0430\u043d\u043e\u043d\u0438\u043c\u0443\u0441\u0430\u043c\u0438 \u0441 linux.org.ru :) , Linux \u043d\u0435 \u0441\u043f\u0435\u0448...\"\n\nI noticed your primary website action is '\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b', so I focused the audit on reducing friction around that path. Your visible hours include -v -y 1G -l samsung200.log -o samsung200.bb /dev/hdc /dev/sda, which makes fast response time especially important when prospects are ready to act.\n\nYou have a great foundation, but I noticed a couple of technical adjustments that are likely costing you leads and sales:\n\n- Mobile Performance: The website takes around 4.2 seconds to fully load, which is likely causing mobile visitors to bounce before they contact you.\n\n- Lead Conversion Friction: There's no direct booking scheduler (like Calendly) or sticky call-to-action on the header, making it harder for prospects to initiate a call.\n\nThese are relatively straightforward adjustments that can increase your conversion rates by 15-30%.\n\nI've put together a 10-minute video showing exactly how to fix these gaps. Would it be alright if I sent that video over? No strings attached.\n\nIf this is not relevant, reply \"not interested\" and I will not follow up.\n\nBest regards,\n\n[Your Name]\n[Your Contact Info]",
+    "whatsapp": "Hi SyncFrq Team, I reviewed https://www.compdoc.ru/os/linux/data-recovering/ and found a few quick conversion opportunities:\n\n1. Mobile Performance: The website takes around 4.2 seconds to fully load, which is likely causing mobile visitors to bounce before they contact you.\n2. Lead Conversion Friction: There's no direct booking scheduler (like Calendly) or sticky call-to-action on the header, making it harder for prospects to initiate a call.\n\nI noticed your primary website action is '\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b', so I focused the audit on reducing friction around that path.\n\nWould you like me to send a short video audit with 3 specific improvements? Reply STOP if you do not want messages.",
+    "sms": "Hi SyncFrq, I reviewed https://www.compdoc.ru/os/linux/data-recovering/ and found quick website conversion wins. Can I send a short video audit with 3 fixes? Reply STOP to opt out."
+  },
+  "outreach_email": "Subject: Quick growth audit for SyncFrq\n\nHi SyncFrq Team,\n\nI recently ran a quick performance and conversion audit on https://www.compdoc.ru/os/linux/data-recovering/. We also noticed you don't have active links to social media platforms in your main menu, which is a great way to build client trust.\n\nI saw that SyncFrq positions itself around: \"\u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0443\u043f\u043e\u0440\u043d\u043e\u0435 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 \u043e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f :) \u0432\u043a\u0443\u043f\u0435 \u0441 \u0430\u043d\u043e\u043d\u0438\u043c\u0443\u0441\u0430\u043c\u0438 \u0441 linux.org.ru :) , Linux \u043d\u0435 \u0441\u043f\u0435\u0448...\"\n\nI noticed your primary website action is '\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b', so I focused the audit on reducing friction around that path. Your visible hours include -v -y 1G -l samsung200.log -o samsung200.bb /dev/hdc /dev/sda, which makes fast response time especially important when prospects are ready to act.\n\nYou have a great foundation, but I noticed a couple of technical adjustments that are likely costing you leads and sales:\n\n- Mobile Performance: The website takes around 4.2 seconds to fully load, which is likely causing mobile visitors to bounce before they contact you.\n\n- Lead Conversion Friction: There's no direct booking scheduler (like Calendly) or sticky call-to-action on the header, making it harder for prospects to initiate a call.\n\nThese are relatively straightforward adjustments that can increase your conversion rates by 15-30%.\n\nI've put together a 10-minute video showing exactly how to fix these gaps. Would it be alright if I sent that video over? No strings attached.\n\nIf this is not relevant, reply \"not interested\" and I will not follow up.\n\nBest regards,\n\n[Your Name]\n[Your Contact Info]"
+}

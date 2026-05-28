@@ -17,16 +17,45 @@ def clean_phones(phones):
     cleaned = set()
     for p in phones:
         # Strip all non-essential formatting
-        p_clean = p.strip()
+        original = str(p).strip()
+        p_clean = original
         # Strip trailing chars
         p_clean = re.sub(r'[^\d+x\-.\(\)\s]', '', p_clean)
+        p_clean = re.sub(r'\s+', ' ', p_clean).strip()
         
         # Deduplicate by comparing numbers only
         digits = re.sub(r'\D', '', p_clean)
-        if len(digits) >= 7:
-            # Prevent adding parts of addresses
-            if not (digits.startswith(('202', '201')) and len(digits) == 10 and int(digits[:4]) in range(2010, 2030)):
-                cleaned.add(p_clean)
+        if not 7 <= len(digits) <= 15:
+            continue
+
+        # Avoid browser versions, coordinates, IDs, and analytics numbers that
+        # look numeric but are not contact phone numbers.
+        if re.search(r'\d+\.\d+\.\d+', p_clean):
+            continue
+        if re.search(r'\d+\.\d{5,}', p_clean):
+            continue
+        if re.match(r'^\d{4}[-/]\d{2}[-/]\d{2}$', original):
+            continue
+        if len(set(digits)) <= 2 and len(digits) > 8:
+            continue
+        if digits.startswith(('201', '202')) and len(digits) == 10:
+            continue
+
+        starts_international = p_clean.startswith("+")
+        if not starts_international:
+            domestic_pattern = re.compile(
+                r'^(?:\(?\d{3}\)?[-.\s]\d{3}[-.\s]\d{4}|\d{3}[-.\s]\d{4})(?:\s*x\d+)?$',
+                re.I
+            )
+            if not domestic_pattern.match(p_clean):
+                continue
+
+        has_phone_formatting = bool(re.search(r'^\+|[\s().-]|x\d+', p_clean, re.I))
+        is_plain_digits = p_clean == digits
+        if is_plain_digits and not has_phone_formatting:
+            continue
+
+        cleaned.add(p_clean)
                 
     return sorted(list(cleaned))
 
